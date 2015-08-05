@@ -1,10 +1,16 @@
 package net.april1.calciostats;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.SocketTimeoutException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.HashSet;
+import java.util.Locale;
 import java.util.Set;
+import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -17,8 +23,12 @@ import org.jsoup.select.Elements;
 
 public class NCAA {
 
+	private static final String GAME_FILE = "games.txt";
+	private static final int TIMEOUT_SECONDS = 10; // default is 3, 0 means
+													// infinite
 	private static final String BASE_URL = "http://stats.ncaa.org";
-	private static final String TEAMS_URL = BASE_URL + "/team/inst_team_list?sport_code=WSO";
+	private static final String TEAMS_URL = BASE_URL
+			+ "/team/inst_team_list?sport_code=WSO";
 	private static final String PLAY_URL = BASE_URL + "/game/play_by_play/";
 
 	public void getGameData(String game) {
@@ -41,16 +51,27 @@ public class NCAA {
 	}
 
 	public Set<String> getGames() throws IOException {
+		long start = System.currentTimeMillis();
+
+		int count = 0;
 		Set<String> gameSet = new HashSet<String>();
 		for (String year : getYears()) {
 			for (String division : getDivision(year)) {
 				for (String teamLink : getTeamLink(year, division)) {
 					gameSet.addAll(getTeamGames(teamLink));
-					if (gameSet.size() > 100)
-						break;
+					// if (gameSet.size() > 100)
+					// break;
+					if (gameSet.size() / 2500 > count) {
+						System.out.print(dateTimeFormat(System
+								.currentTimeMillis() - start));
+						System.out.print(' ');
+						System.out.println(gameSet.size());
+						count++;
+					}
 				}
 			}
 		}
+		System.out.println(dateTimeFormat(System.currentTimeMillis() - start));
 		return gameSet;
 	}
 
@@ -78,13 +99,15 @@ public class NCAA {
 	private Set<String> getTeamLink(String year, String division) {
 		Set<String> teamSet = new HashSet<String>();
 		try {
-			Document doc = getDocument(TEAMS_URL + "&academic_year=" + year + "&division=" + division);
+			Document doc = getDocument(TEAMS_URL + "&academic_year=" + year
+					+ "&division=" + division);
 			Elements links = doc.select("a[href^=/team/index/]");
 			for (Element link : links) {
 				teamSet.add(link.attr("href").toString());
 			}
 		} catch (IOException ioe) {
-			System.err.println("ERROR gettings year " + year + " division " + division);
+			System.err.println("ERROR gettings year " + year + " division "
+					+ division);
 			System.err.println("      " + ioe.getMessage());
 		}
 		return teamSet;
@@ -126,7 +149,8 @@ public class NCAA {
 		int tries = 0;
 		do {
 			try {
-				returnDoc = Jsoup.connect(url).get();
+				returnDoc = Jsoup.connect(url).timeout(TIMEOUT_SECONDS * 1000)
+						.get();
 			} catch (MalformedURLException mue) {
 				System.err.println("Malformed URL " + url);
 				System.exit(-1);
@@ -138,8 +162,18 @@ public class NCAA {
 				System.exit(-1);
 			} catch (SocketTimeoutException ste) {
 				System.err.println("Socket Timeout for " + url);
+				System.err.println(ste.getMessage());
 				if (tries >= 3)
 					System.exit(-1);
+				else {
+					try {
+						Thread.sleep(TIMEOUT_SECONDS * 1000);
+					} catch (InterruptedException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+					System.err.println("trying again");
+				}
 			} catch (IOException ioe) {
 				System.err.println("IO Exception for " + url);
 				throw ioe;
@@ -148,25 +182,40 @@ public class NCAA {
 		return returnDoc;
 	}
 
+	private String dateTimeFormat(long millis) {
+		return String.format(
+				"%2d:%2d:%2d",
+				TimeUnit.MILLISECONDS.toHours(millis),
+				TimeUnit.MILLISECONDS.toMinutes(millis)%60,
+				TimeUnit.MILLISECONDS.toSeconds(millis)%60);
+	}
+
 	public static void main(String[] args) throws IOException {
 
-		long start = System.currentTimeMillis();
 		NCAA ncaa = new NCAA();
-//		for (String game : ncaa.getGames()) {
-//			System.out.println("**" + game + "**");
-//			ncaa.getGameData(game);
-//		}
-		System.out.println("##### 4-3 #####");
-		ncaa.getGameData("350871"); // 4-3 game
-		System.out.println("##### 0-0 #####");
-		ncaa.getGameData("3453824"); // 0-0 tie
-		System.out.println("##### 3-3 #####");
-		ncaa.getGameData("3472071"); // 3-3 tie
-		System.out.println("##### 0-0 OT goal #####");
-		ncaa.getGameData("446670"); // 0-0 regulation OT goal
-		System.out.println("##### 1-1 OT goal #####");
-		ncaa.getGameData("334030"); // 1-1 regulation OT goal
-		System.out.print((System.currentTimeMillis() - start) / 1000);
-		System.out.println(" DONE");
+		if (args.length >= 1) {
+			switch (args[0]) {
+			case "a":
+				BufferedWriter out = new BufferedWriter(new FileWriter(
+						GAME_FILE));
+				for (String game : ncaa.getGames()) {
+					out.write(game);
+					out.write('\n');
+				}
+				out.close();
+				break;
+			}
+		} else {
+			System.out.println("##### 4-3 #####");
+			ncaa.getGameData("350871"); // 4-3 game
+			System.out.println("##### 0-0 #####");
+			ncaa.getGameData("3453824"); // 0-0 tie
+			System.out.println("##### 3-3 #####");
+			ncaa.getGameData("3472071"); // 3-3 tie
+			System.out.println("##### 0-0 OT goal #####");
+			ncaa.getGameData("446670"); // 0-0 regulation OT goal
+			System.out.println("##### 1-1 OT goal #####");
+			ncaa.getGameData("334030"); // 1-1 regulation OT goal
+		}
 	}
 }

@@ -5,10 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.SocketTimeoutException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 import java.util.HashSet;
-import java.util.Locale;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
@@ -183,11 +180,10 @@ public class NCAA {
 	}
 
 	private String dateTimeFormat(long millis) {
-		return String.format(
-				"%2d:%2d:%2d",
+		return String.format("%2d:%2d:%2d",
 				TimeUnit.MILLISECONDS.toHours(millis),
-				TimeUnit.MILLISECONDS.toMinutes(millis)%60,
-				TimeUnit.MILLISECONDS.toSeconds(millis)%60);
+				TimeUnit.MILLISECONDS.toMinutes(millis) % 60,
+				TimeUnit.MILLISECONDS.toSeconds(millis) % 60);
 	}
 
 	public static void main(String[] args) throws IOException {

@@ -1,6 +1,8 @@
 package net.april1.calciostats;
 
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.net.MalformedURLException;
@@ -199,6 +201,18 @@ public class NCAA {
 					out.write('\n');
 				}
 				out.close();
+				break;
+			case "b":
+				BufferedReader reader = new BufferedReader(new FileReader(
+						GAME_FILE));
+				String line = null;
+				int count = 10;
+				while ((line = reader.readLine()) != null) {
+					// process each line in some way
+					if (count--<0) break;
+					ncaa.getGameData(line);
+				}
+				reader.close();
 				break;
 			}
 		} else {

@@ -1,7 +1,9 @@
 package net.april1.calciostats;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.List;
 
@@ -29,11 +31,15 @@ public class NCAAGame extends NCAA {
 			int count = 0;
 			BufferedReader reader = new BufferedReader(
 					new FileReader(GAME_FILE));
+			BufferedWriter out = new BufferedWriter(new FileWriter(DATA_FILE));
 			String line = null;
 			while ((line = reader.readLine()) != null) {
 				// process each line in some way
-				ncaa.getGameData(line);
-				if (++count % 1000 == 0) {
+				for (GameData data : ncaa.getGameData(line)) {
+					out.write(data.toString());
+					out.write('\n');
+				}
+				if (++count % 2500 == 0) {
 					System.out.print(dateTimeFormat(System.currentTimeMillis()
 							- start));
 					System.out.print(' ');
@@ -41,11 +47,13 @@ public class NCAAGame extends NCAA {
 				}
 			}
 			reader.close();
+			out.close();
+			System.out.println(dateTimeFormat(System.currentTimeMillis()
+					- start));
 		}
-		System.out.println(dateTimeFormat(System.currentTimeMillis() - start));
 	}
 
-	public void getGameData(String game) {
+	public List<GameData> getGameData(String game) {
 		List<GameData> gameData = new java.util.ArrayList<GameData>();
 		int homeScore = 0;
 		int awayScore = 0;
@@ -54,12 +62,12 @@ public class NCAAGame extends NCAA {
 			Elements tableRows = doc.select("tr:has(td.smtext:matches(GOAL))");
 			for (Element tableRow : tableRows) {
 				if (tableRow.toString().contains("Shootout")) {
-					System.out.println(tableRow);
+					// ignore shootout goals, go to next
 					continue;
 				}
 				boolean away = false; // validity check
 				String firstField = tableRow.child(0).text();
-				String minute = "111";
+				String minute = "???";
 				try {
 					minute = firstField.substring(0, firstField.indexOf(':'));
 				} catch (Exception e) {
@@ -68,14 +76,8 @@ public class NCAAGame extends NCAA {
 								tableRow.toString().indexOf('['),
 								tableRow.toString().length());
 						minute = first.substring(1, first.indexOf(':'));
-						System.out.println("---> " + minute + " <---");
 					} catch (Exception e2) {
-						System.err.print("Bad minute in game " + game + " -> "
-								+ firstField);
-						System.err.print(" *** ");
-						System.err.print(tableRow.child(1).text());
-						System.err.print("<-->");
-						System.err.println(tableRow.child(3).text());
+						minute = "?" + game;
 					}
 				}
 
@@ -106,8 +108,8 @@ public class NCAAGame extends NCAA {
 			homeResult = 'L';
 		for (GameData gd : gameData) {
 			gd.setHomeResult(homeResult);
-			// System.out.println(gd);
 		}
+		return gameData;
 	}
 
 	private class GameData {
@@ -120,22 +122,6 @@ public class NCAAGame extends NCAA {
 			_minute = minute;
 			_homeScore = homeScore;
 			_awayScore = awayScore;
-		}
-
-		public int getAwayScore() {
-			return _awayScore;
-		}
-
-		public char getHomeResult() {
-			return _homeResult;
-		}
-
-		public int getHomeScore() {
-			return _homeScore;
-		}
-
-		public String getMinute() {
-			return _minute;
 		}
 
 		public void setHomeResult(char homeResult) {

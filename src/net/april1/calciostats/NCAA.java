@@ -13,16 +13,20 @@ import org.jsoup.nodes.Document;
 abstract public class NCAA {
 
 	protected static final String GAME_FILE = "games.txt";
+	protected static final String DATA_FILE = "data.txt";
 	private static final int TIMEOUT_SECONDS = 10; // default is 3, 0 means
 	// infinite
 	protected static final String BASE_URL = "http://stats.ncaa.org";
-	protected static final String TEAMS_URL = BASE_URL + "/team/inst_team_list?sport_code=WSO";
+	protected static final String TEAMS_URL = BASE_URL
+			+ "/team/inst_team_list?sport_code=WSO";
 
 	protected static final String PLAY_URL = BASE_URL + "/game/play_by_play/";
 
 	public static String dateTimeFormat(long millis) {
-		return String.format("%2d:%2d:%2d", TimeUnit.MILLISECONDS.toHours(millis),
-				TimeUnit.MILLISECONDS.toMinutes(millis) % 60, TimeUnit.MILLISECONDS.toSeconds(millis) % 60);
+		return String.format("%2d:%2d:%2d",
+				TimeUnit.MILLISECONDS.toHours(millis),
+				TimeUnit.MILLISECONDS.toMinutes(millis) % 60,
+				TimeUnit.MILLISECONDS.toSeconds(millis) % 60);
 	}
 
 	protected Document getDocument(String url) throws IOException {
@@ -30,7 +34,8 @@ abstract public class NCAA {
 		int tries = 0;
 		do {
 			try {
-				returnDoc = Jsoup.connect(url).timeout(TIMEOUT_SECONDS * 1000).get();
+				returnDoc = Jsoup.connect(url).timeout(TIMEOUT_SECONDS * 1000)
+						.get();
 			} catch (MalformedURLException mue) {
 				System.err.println("Malformed URL " + url);
 				System.exit(-1);

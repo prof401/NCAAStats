@@ -34,6 +34,8 @@ public class NCAAGame extends NCAA {
 			BufferedWriter out = new BufferedWriter(new FileWriter(DATA_FILE));
 			String line = null;
 			while ((line = reader.readLine()) != null) {
+				out.write(line);
+				out.write('\n');
 				// process each line in some way
 				for (GameData data : ncaa.getGameData(line)) {
 					out.write(data.toString());

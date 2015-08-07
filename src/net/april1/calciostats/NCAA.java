@@ -14,6 +14,7 @@ abstract public class NCAA {
 
 	protected static final String GAME_FILE = "games.txt";
 	protected static final String DATA_FILE = "data.txt";
+	protected static final String STAT_FILE = "stat.txt";
 	private static final int TIMEOUT_SECONDS = 10; // default is 3, 0 means
 	// infinite
 	protected static final String BASE_URL = "http://stats.ncaa.org";
@@ -23,7 +24,7 @@ abstract public class NCAA {
 	protected static final String PLAY_URL = BASE_URL + "/game/play_by_play/";
 
 	public static String dateTimeFormat(long millis) {
-		return String.format("%2d:%2d:%2d",
+		return String.format("%02d:%02d:%02d",
 				TimeUnit.MILLISECONDS.toHours(millis),
 				TimeUnit.MILLISECONDS.toMinutes(millis) % 60,
 				TimeUnit.MILLISECONDS.toSeconds(millis) % 60);

@@ -29,8 +29,7 @@ public class NCAAGame extends NCAA {
 			ncaa.getGameData("334030"); // 1-1 regulation OT goal
 		} else {
 			int count = 0;
-			BufferedReader reader = new BufferedReader(
-					new FileReader(GAME_FILE));
+			BufferedReader reader = new BufferedReader(new FileReader(GAME_FILE));
 			BufferedWriter out = new BufferedWriter(new FileWriter(DATA_FILE));
 			String line = null;
 			while ((line = reader.readLine()) != null) {
@@ -41,17 +40,16 @@ public class NCAAGame extends NCAA {
 					out.write(data.toString());
 					out.write('\n');
 				}
-				if (++count % 2500 == 0) {
-					System.out.print(dateTimeFormat(System.currentTimeMillis()
-							- start));
+				if (++count % 25 == 0) {
+					System.out.print(dateTimeFormat(System.currentTimeMillis() - start));
 					System.out.print(' ');
 					System.out.println(count);
+					break;
 				}
 			}
 			reader.close();
 			out.close();
-			System.out.println(dateTimeFormat(System.currentTimeMillis()
-					- start));
+			System.out.println(dateTimeFormat(System.currentTimeMillis() - start));
 		}
 	}
 
@@ -61,6 +59,10 @@ public class NCAAGame extends NCAA {
 		int awayScore = 0;
 		try {
 			Document doc = getDocument(PLAY_URL + game);
+			System.out.println(game);
+			if (possibleTimeError(doc)) {
+				System.err.println("Possible time error in game " + game);
+			}
 			Elements tableRows = doc.select("tr:has(td.smtext:matches(GOAL))");
 			for (Element tableRow : tableRows) {
 				if (tableRow.toString().contains("Shootout")) {
@@ -112,6 +114,32 @@ public class NCAAGame extends NCAA {
 			gd.setHomeResult(homeResult);
 		}
 		return gameData;
+	}
+
+	private boolean possibleTimeError(Document doc) {
+		// TODO Auto-generated method stub
+		Elements tables = doc.select("table tr:has(td.smtext)");
+		int period = 0;
+		for (Element table : tables) {
+			period++;
+			Elements details = table.select("tr:has(td.smtext:matches(:))");
+			for (Element detail : details) {
+				String minute = "???";
+				try {
+					minute = detail.text().substring(0, detail.text().indexOf(':'));
+				} catch (Exception e) {
+					try {
+						minute = detail.text().substring(
+								detail.text().indexOf('['),
+								detail.text().indexOf(':'));
+					} catch (Exception e2) {
+						
+					}
+				}
+				System.out.println(minute);
+			}
+		}
+		return false;
 	}
 
 	private class GameData {

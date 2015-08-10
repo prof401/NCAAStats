@@ -6,6 +6,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.List;
+import java.util.Set;
 
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -33,18 +34,22 @@ public class NCAAGame extends NCAA {
 			BufferedWriter out = new BufferedWriter(new FileWriter(DATA_FILE));
 			String line = null;
 			while ((line = reader.readLine()) != null) {
-				out.write(line);
-				out.write('\n');
-				// process each line in some way
-				for (GameData data : ncaa.getGameData(line)) {
-					out.write(data.toString());
+				try {
+					out.write(line);
 					out.write('\n');
-				}
-				if (++count % 25 == 0) {
-					System.out.print(dateTimeFormat(System.currentTimeMillis() - start));
-					System.out.print(' ');
-					System.out.println(count);
-					break;
+					// process each line in some way
+					for (GameData data : ncaa.getGameData(line)) {
+						out.write(data.toString());
+						out.write('\n');
+					}
+					if (++count % 2500 == 0) {
+						System.out.print(dateTimeFormat(System.currentTimeMillis() - start));
+						System.out.print(' ');
+						System.out.println(count);
+					}
+				} catch (Exception e) {
+					System.err.println(line);
+					throw e;
 				}
 			}
 			reader.close();
@@ -59,8 +64,8 @@ public class NCAAGame extends NCAA {
 		int awayScore = 0;
 		try {
 			Document doc = getDocument(PLAY_URL + game);
-			System.out.println(game);
-			if (possibleTimeError(doc)) {
+			Set<String> errors = possibleTimeError(doc);
+			if (!errors.isEmpty()) {
 				System.err.println("Possible time error in game " + game);
 			}
 			Elements tableRows = doc.select("tr:has(td.smtext:matches(GOAL))");
@@ -76,8 +81,7 @@ public class NCAAGame extends NCAA {
 					minute = firstField.substring(0, firstField.indexOf(':'));
 				} catch (Exception e) {
 					try {
-						String first = tableRow.toString().substring(
-								tableRow.toString().indexOf('['),
+						String first = tableRow.toString().substring(tableRow.toString().indexOf('['),
 								tableRow.toString().length());
 						minute = first.substring(1, first.indexOf(':'));
 					} catch (Exception e2) {
@@ -116,12 +120,35 @@ public class NCAAGame extends NCAA {
 		return gameData;
 	}
 
-	private boolean possibleTimeError(Document doc) {
-		// TODO Auto-generated method stub
-		Elements tables = doc.select("table tr:has(td.smtext)");
+	private Set<String> possibleTimeError(Document doc) {
+		Set<String> errors = new java.util.HashSet<String>();
+		Elements tables = doc.select("table:has(tr:has(td.smtext))");
 		int period = 0;
+		int minMinute = 0;
+		int maxMinute = 0;
+		int direction = 0;
 		for (Element table : tables) {
 			period++;
+			direction = 0;
+			switch (period) {
+			case 1:
+				minMinute = 0;
+				maxMinute = 45;
+				break;
+			case 2:
+				minMinute = 45;
+				maxMinute = 90;
+				break;
+			case 3:
+				minMinute = 90;
+				maxMinute = 100;
+				break;
+			case 4:
+				minMinute = 100;
+				maxMinute = 110;
+				break;
+			}
+			int lastMinute = -1;
 			Elements details = table.select("tr:has(td.smtext:matches(:))");
 			for (Element detail : details) {
 				String minute = "???";
@@ -129,17 +156,32 @@ public class NCAAGame extends NCAA {
 					minute = detail.text().substring(0, detail.text().indexOf(':'));
 				} catch (Exception e) {
 					try {
-						minute = detail.text().substring(
-								detail.text().indexOf('['),
-								detail.text().indexOf(':'));
+						minute = detail.text().substring(detail.text().indexOf('['), detail.text().indexOf(':'));
 					} catch (Exception e2) {
-						
+
 					}
 				}
-				System.out.println(minute);
+				int mi = -1;
+				try {
+					mi = Integer.parseInt(minute);
+				} catch (NumberFormatException nfe) {
+					// probably not a number
+					continue;
+				}
+
+				if (lastMinute > -1) {
+					direction += Math.signum(mi - lastMinute);
+				}
+				lastMinute = mi;
+				if (mi < minMinute || mi > maxMinute) {
+					errors.add("R" + period);
+				}
+			}
+			if (direction < 0) {
+				errors.add("D" + period);
 			}
 		}
-		return false;
+		return errors;
 	}
 
 	private class GameData {
@@ -149,7 +191,7 @@ public class NCAAGame extends NCAA {
 		char _homeResult;
 
 		public GameData(String minute, int homeScore, int awayScore) {
-			_minute = minute;
+			_minute = Integer.toString((Integer.parseInt(minute)+1));
 			_homeScore = homeScore;
 			_awayScore = awayScore;
 		}

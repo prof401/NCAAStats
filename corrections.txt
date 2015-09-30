@@ -1,4 +1,3 @@
-
 [R2]
 Possible time error in game 300213
 [R2, D1, D2]

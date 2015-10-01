@@ -1,2222 +1,1079 @@
-[R2]
-Possible time error in game 300213
-[R2, D1, D2]
-Possible time error in game 303830
-[R3]
-Possible time error in game 304032
-[R3, R4]
-Possible time error in game 305450
-[R3]
-Possible time error in game 306090
-[R2]
-Possible time error in game 306890
-[R3, R4]
-Possible time error in game 307371
-[R2, D1, D2]
-Possible time error in game 307851
-[R3, R4]
-Possible time error in game 307970
-[R4]
-Possible time error in game 308491
-[R2, D1, D2]
-Possible time error in game 309570
-00:17:46 5000
-[R3, R4]
-Possible time error in game 314531
-[R2, R3, R4]
-Possible time error in game 317874
-[R2]
-Possible time error in game 317881
-[R3, R4]
-Possible time error in game 318310
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 320790
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 322274
-[R1]
-Possible time error in game 322755
-[D1, D2]
-Possible time error in game 323042
-[R3, R4]
-Possible time error in game 325435
-[R4]
-Possible time error in game 325436
-[R4]
-Possible time error in game 325572
-[R4]
-Possible time error in game 326310
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 326551
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 326552
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 327595
-[R2, D1, D2]
-Possible time error in game 328170
-[R2, D1]
-Possible time error in game 329751
-[R3, R4]
-Possible time error in game 333930
-[R1]
-Possible time error in game 334790
-[R2, D1, D2]
-Possible time error in game 335611
-[R3, R4]
-Possible time error in game 337191
-[R3]
-Possible time error in game 337427
-[R2, D1, D2]
-Possible time error in game 338110
-[R2, D1, D2]
-Possible time error in game 338318
-[D1, D2]
-Possible time error in game 338371
-[R2]
-Possible time error in game 341453
-[D1]
-Possible time error in game 342451
-[R3, R4]
-Possible time error in game 344891
-[R3, R4]
-Possible time error in game 348071
-[R2]
-Possible time error in game 352074
-[R2, D1, D2]
-Possible time error in game 352728
-[R2, D1, D2]
-Possible time error in game 352774
-[R2, D1, D2]
-Possible time error in game 354211
-[R2]
-Possible time error in game 356371
-[R3, R4]
-Possible time error in game 359790
-[R3, R4]
-Possible time error in game 365450
-[D1]
-Possible time error in game 365810
-[R3]
-Possible time error in game 366470
-[R2, D1, D2]
-Possible time error in game 372890
-00:26:31 7500
-[R2]
-Possible time error in game 378430
-[R2, D1, D2]
-Possible time error in game 380830
-[R2, D1, D2]
-Possible time error in game 381330
-[R2, D2]
-Possible time error in game 383450
-[R3, R4]
-Possible time error in game 386030
-[R3]
-Possible time error in game 387586
-[R3, R4]
-Possible time error in game 388170
-[R3]
-Possible time error in game 390654
-[R3, R4]
-Possible time error in game 390655
-[R2, D4, R3, R4, D2, D3]
-Possible time error in game 393252
-[R3, R4]
-Possible time error in game 396790
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 399130
-[R2, D1, D2]
-Possible time error in game 399150
-[R2, D1, D2]
-Possible time error in game 399170
-[R2, D1, D2]
-Possible time error in game 399190
-[R3]
-Possible time error in game 399472
-[R2, D1, D2]
-Possible time error in game 400750
-[R2, D1, D2]
-Possible time error in game 400770
-[R2, R3, D1, D2, D3]
-Possible time error in game 400910
-[R3, R4]
-Possible time error in game 401110
-[R3, R4]
-Possible time error in game 401230
-[R2]
-Possible time error in game 401712
-[R3]
-Possible time error in game 406770
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 409330
-[R3, R4]
-Possible time error in game 409410
-[R2, D1, D2]
-Possible time error in game 409690
-[R2]
-Possible time error in game 412292
-[R2, D1, D2]
-Possible time error in game 414671
-[R4]
-Possible time error in game 417550
-[R4]
-Possible time error in game 418634
-[R3, R4]
-Possible time error in game 418791
-[R2]
-Possible time error in game 419010
-[R2, D1, D2]
-Possible time error in game 422395
-[R2, D1, D2]
-Possible time error in game 422570
-[R3, R4]
-Possible time error in game 424495
-[R2, D1, D2]
-Possible time error in game 425970
-[R2]
-Possible time error in game 426930
-[R2]
-Possible time error in game 430771
-[R2, D1, D2]
-Possible time error in game 434830
-[D1]
-Possible time error in game 438692
-[R3, R4]
-Possible time error in game 439551
-[R2, D1, D2]
-Possible time error in game 439911
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 441630
-[D3]
-Possible time error in game 443209
-[R2, D1, D2]
-Possible time error in game 443310
-[R2, D1, D2]
-Possible time error in game 443610
-[R2, D1, D2]
-Possible time error in game 445071
-[R3, R4]
-Possible time error in game 445131
-00:35:04 10000
-[R1]
-Possible time error in game 445755
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 445912
-[R3, R4]
-Possible time error in game 446231
-[R3]
-Possible time error in game 447672
-[R3, R4]
-Possible time error in game 447971
-[R3, R4]
-Possible time error in game 448390
-[R3, R4]
-Possible time error in game 448610
-[R2, D1, D2]
-Possible time error in game 448871
-[R3, R4]
-Possible time error in game 449070
-[R3]
-Possible time error in game 452190
-[R3, R4]
-Possible time error in game 452430
-[R2, D1, D2]
-Possible time error in game 454293
-[R3, R4]
-Possible time error in game 455410
-[R2]
-Possible time error in game 462732
-[R2, D1, D2]
-Possible time error in game 462871
-[R2, R3, D1, D2, D3]
-Possible time error in game 465251
-[R2, D1, D2]
-Possible time error in game 466190
-[R2, D1, D2]
-Possible time error in game 466370
-[R3, R4]
-Possible time error in game 468838
-[R2, R3, D1, D2, D3]
-Possible time error in game 470530
-[R3, R4]
-Possible time error in game 471130
-[R2, D1, D2]
-Possible time error in game 472552
-[R2, D1, D2]
-Possible time error in game 472790
-[R3]
-Possible time error in game 476170
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 476850
-[R2, D1, D2]
-Possible time error in game 479931
-[R2, D1, D2]
-Possible time error in game 479932
-[R2]
-Possible time error in game 480752
-[R2, D1, D2]
-Possible time error in game 481070
-[R2]
-Possible time error in game 482356
-[R2, D1, D2]
-Possible time error in game 486659
-[R2]
-Possible time error in game 488252
-[R2, D1, D2]
-Possible time error in game 488575
-[R2, D1, D2]
-Possible time error in game 492031
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 492214
-[R2, D1, D2]
-Possible time error in game 494713
-[R3, R4]
-Possible time error in game 495472
-[R2, D1, D2]
-Possible time error in game 495713
-[R2, D1, D2]
-Possible time error in game 496530
-[R2, D1, D2]
-Possible time error in game 496531
-[R3, R4]
-Possible time error in game 497490
-[R2, R3, R4]
-Possible time error in game 500050
-[R2, D1, D2]
-Possible time error in game 500450
-[R2, R3, R4]
-Possible time error in game 502030
-[R4]
-Possible time error in game 506470
-[R2, D1, D2]
-Possible time error in game 509431
-[R2, R3, R4]
-Possible time error in game 509530
-[R2, R3, R4, R1]
-Possible time error in game 510711
-[R3, R4]
-Possible time error in game 510974
-[R2, R3, R4]
-Possible time error in game 511032
-[R2, R3, R4]
-Possible time error in game 513030
-[R2, R3, R4]
-Possible time error in game 514252
-[R2, R3, R4]
-Possible time error in game 514391
-[R2, R3, R4]
-Possible time error in game 515930
-[R2, R3, R4, R1]
-Possible time error in game 516070
-[R2, D1, D2]
-Possible time error in game 516330
-[R2, R3, R4]
-Possible time error in game 516752
-[R3, R4]
-Possible time error in game 517930
-[R4]
-Possible time error in game 519030
-00:44:05 12500
-[R4]
-Possible time error in game 519950
-[R2, R3, R4]
-Possible time error in game 523470
-[R2, R3, R4, R1]
-Possible time error in game 526490
-[R2, R3, R4]
-Possible time error in game 529871
-[R2, D1, D2]
-Possible time error in game 529930
-[R2, D1, D2]
-Possible time error in game 530610
-[R4]
-Possible time error in game 531730
-[R2, D1, D2]
-Possible time error in game 543126
-[R3, R4]
-Possible time error in game 548312
-[R2, D1, D2]
-Possible time error in game 549250
-[R2, D1, D2]
-Possible time error in game 551452
-[R2, D1, D2]
-Possible time error in game 563632
-[R2, D1, D2]
-Possible time error in game 602390
-[R2, R3, D2, D3]
-Possible time error in game 1078902
-[R1]
-Possible time error in game 1080592
-[D1]
-Possible time error in game 1080872
-[R2, D1, D2, R1]
-Possible time error in game 1080877
-[D4, D1, D2, D3]
-Possible time error in game 1081231
-[R2]
-Possible time error in game 1081311
-[R2, D1, D2]
-Possible time error in game 1081371
-[R3, R4]
-Possible time error in game 1081691
-[R2, D1, D2]
-Possible time error in game 1082128
-[R2, D1, D2]
-Possible time error in game 1083191
-[R2, D1, D2]
-Possible time error in game 1086471
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1087751
-[R2, D1, D2]
-Possible time error in game 1087851
-[R3, R4]
-Possible time error in game 1090351
-[R2, D1]
-Possible time error in game 1095472
-[R2, D1, D2]
-Possible time error in game 1095502
-[R2, D1, D2]
-Possible time error in game 1096172
-[D1]
-Possible time error in game 1097333
-[R2, D1, D2]
-Possible time error in game 1099077
-[R4]
-Possible time error in game 1102352
-[R2, D1, D2]
-Possible time error in game 1102492
-[R2, D1, D2]
-Possible time error in game 1102772
-[R2, D1, D2]
-Possible time error in game 1105312
-[R2, D1, D2]
-Possible time error in game 1106135
-[R2, D1, D2]
-Possible time error in game 1106572
-[R2, R3, D1, D2, D3]
-Possible time error in game 1106978
-[R3]
-Possible time error in game 1107074
-[R3, R4]
-Possible time error in game 1107075
-[R2, D1, D2]
-Possible time error in game 1110072
-[R2, R3, D1, D2, D3]
-Possible time error in game 1110792
-[R3]
-Possible time error in game 1112568
-[R3]
-Possible time error in game 1112998
-[R3, R4]
-Possible time error in game 1113008
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1113295
-[R2, R3, R4]
-Possible time error in game 1113307
-[R3]
-Possible time error in game 1113592
-[R2]
-Possible time error in game 1115572
-[R1]
-Possible time error in game 1115592
-[R3]
-Possible time error in game 1115612
-[R2, D1, D2]
-Possible time error in game 1115852
-[R3]
-Possible time error in game 1116313
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1116892
-[R2, D1, D2]
-Possible time error in game 1117420
-[R3, R4]
-Possible time error in game 1118252
-[R2, D1, D2]
-Possible time error in game 1118732
-[R2]
-Possible time error in game 1120512
-[R2, D1, D2]
-Possible time error in game 1120692
-[R2, D1, D2]
-Possible time error in game 1121436
-[R2]
-Possible time error in game 1121732
-[R2, D1, D2]
-Possible time error in game 1123574
-[R2, D1, D2]
-Possible time error in game 1123575
-[R2, D1, D2]
-Possible time error in game 1123580
-[R2, D1, D2]
-Possible time error in game 1124752
-[R2, D1, D2]
-Possible time error in game 1124772
-[R2]
-Possible time error in game 1125398
-[R2, R3, R4]
-Possible time error in game 1126352
-[R2, D1, D2]
-Possible time error in game 1127632
-[R3]
-Possible time error in game 1129932
-[R2, D1, D2]
-Possible time error in game 1132495
-[R3, R4]
-Possible time error in game 1133193
-[R2]
-Possible time error in game 1133356
-[R2, D1, D2]
-Possible time error in game 1133772
-[R2, D1, D2]
-Possible time error in game 1134386
-[R2, D1, D2]
-Possible time error in game 1134681
-[R2, D1, D2]
-Possible time error in game 1134956
-[R2, D1, D2]
-Possible time error in game 1135214
-[R2, D1, D2]
-Possible time error in game 1135712
-[R3]
-Possible time error in game 1136212
-[R2, D1, D2]
-Possible time error in game 1136432
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1137172
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1137192
-[R2, D1, D2]
-Possible time error in game 1137193
-[R2, D1, D2]
-Possible time error in game 1137674
-[R2, D1, D2]
-Possible time error in game 1138593
-[R2, D1, D2]
-Possible time error in game 1138732
-[R2, R3, D1, D2]
-Possible time error in game 1138753
-[R2, D1, D2]
-Possible time error in game 1140113
-[R3, R4]
-Possible time error in game 1140473
-[R2, D1, D2]
-Possible time error in game 1140485
-[R1]
-Possible time error in game 1140614
-[R2, D1, D2]
-Possible time error in game 1141072
-[R2, D1, D2]
-Possible time error in game 1141212
-[R2, D1, D2]
-Possible time error in game 1141517
-[R3, R4]
-Possible time error in game 1142353
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1142632
-[R2, D1, D2]
-Possible time error in game 1143064
-[R2, D1, D2]
-Possible time error in game 1143072
-[R2, R3, D1, D2, D3]
-Possible time error in game 1144496
-[R2, D1, D2]
-Possible time error in game 1144692
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1145052
-[R3, R4]
-Possible time error in game 1145512
-[R2, D1, D2]
-Possible time error in game 1146191
-[R2, D1, D2]
-Possible time error in game 1146412
-[R3, R4]
-Possible time error in game 1147492
-[R3, R4]
-Possible time error in game 1147773
-[R2, D1, D2]
-Possible time error in game 1147993
-[R4]
-Possible time error in game 1148101
-[R3]
-Possible time error in game 1149517
-[R2, D1, D2]
-Possible time error in game 1151352
-00:53:03 15000
-[R2, D1, D2]
-Possible time error in game 1154872
-[R2, D1, D2]
-Possible time error in game 1155252
-[R2, D1, D2]
-Possible time error in game 1155852
-[R2, D1, D2]
-Possible time error in game 1157292
-[R3]
-Possible time error in game 1158572
-[R2, R3, D1, D2, D3]
-Possible time error in game 1159352
-[R3]
-Possible time error in game 1160952
-[R2, D1, D2]
-Possible time error in game 1161814
-[R3, R4]
-Possible time error in game 1162452
-[R3, R4]
-Possible time error in game 1162453
-[R2, D1, D2]
-Possible time error in game 1163694
-[R3]
-Possible time error in game 1164232
-[R2]
-Possible time error in game 1164395
-[R2, D1, D2]
-Possible time error in game 1165513
-[R1]
-Possible time error in game 1167173
-[R2, D1, D2]
-Possible time error in game 1168536
-[R2, D1, D2]
-Possible time error in game 1169592
-[R2, D1, D2]
-Possible time error in game 1169741
-[R3, R4]
-Possible time error in game 1169742
-[R2, D1, D2]
-Possible time error in game 1169746
-[R3, R4]
-Possible time error in game 1169955
-[R3, R4]
-Possible time error in game 1169957
-[R3]
-Possible time error in game 1170772
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1171452
-[R2, D1, D2]
-Possible time error in game 1172912
-[R2, D1, D2]
-Possible time error in game 1173114
-[R2, D1, D2]
-Possible time error in game 1173134
-[R2, D1, D2]
-Possible time error in game 1173177
-[R4]
-Possible time error in game 1174112
-[R2, D1, D2]
-Possible time error in game 1174152
-[R2, D1, D2]
-Possible time error in game 1175433
-[R2, D1, D2]
-Possible time error in game 1175449
-[R2, D1, D2]
-Possible time error in game 1176434
-[R2, D1, D2]
-Possible time error in game 1176793
-[R2, D1, D2]
-Possible time error in game 1176912
-[R2, D1, D2]
-Possible time error in game 1176957
-[R2, R3, R4, D1, D3]
-Possible time error in game 1176961
-[R2, D1, D2]
-Possible time error in game 1177075
-[R2, D1, D2]
-Possible time error in game 1177133
-[R2, D1, D2]
-Possible time error in game 1177530
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1178013
-[R2, D1, D2]
-Possible time error in game 1178052
-[R3]
-Possible time error in game 1178093
-[R2, D1, D2]
-Possible time error in game 1178872
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1179512
-[R2, D1, D2]
-Possible time error in game 1180136
-[R2]
-Possible time error in game 1180452
-[R2, D1, D2]
-Possible time error in game 1180612
-[R2, D1]
-Possible time error in game 1180972
-[R2, D1, D2]
-Possible time error in game 1181118
-[R2, D1, D2]
-Possible time error in game 1181792
-[R3, R4]
-Possible time error in game 1182158
-[R2, D1, D2]
-Possible time error in game 1183276
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1183277
-[R2, D1, D2]
-Possible time error in game 1183278
-[R3]
-Possible time error in game 1183281
-[R3]
-Possible time error in game 1183517
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1186512
-[R2, D1]
-Possible time error in game 1188672
-[R2]
-Possible time error in game 1190212
-[R2, D1, D2]
-Possible time error in game 1191315
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1191732
-[R2, D1, D2]
-Possible time error in game 1192142
-[R3]
-Possible time error in game 1193377
-[R4]
-Possible time error in game 1193832
-[R2]
-Possible time error in game 1194099
-[R2]
-Possible time error in game 1195208
-[R2, D1, D2]
-Possible time error in game 1196714
-[R2]
-Possible time error in game 1197613
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1198012
-[R2]
-Possible time error in game 1198052
-[R2, D1, D2]
-Possible time error in game 1198153
-[R2, D1, D2]
-Possible time error in game 1198692
-[R3]
-Possible time error in game 1198812
-[R2, D1, D2]
-Possible time error in game 1199832
-[R2, D1, D2]
-Possible time error in game 1199892
-[R2, D1, D2]
-Possible time error in game 1201060
-[R2, D1, D2]
-Possible time error in game 1201112
-[R2, D1, D2]
-Possible time error in game 1202130
-[R2, D1, D2]
-Possible time error in game 1202584
-[R2, R3, D1, D2, D3]
-Possible time error in game 1202852
-[R2, D1, D2]
-Possible time error in game 1203194
-[R2, D1, D2]
-Possible time error in game 1203197
-[R2, D1, D2]
-Possible time error in game 1203412
-[R2, D1, D2]
-Possible time error in game 1203777
-[R2]
-Possible time error in game 1204272
-[R2, R3, D1, D2, D3]
-Possible time error in game 1204373
-[R3, R4]
-Possible time error in game 1204453
-[R2, D1, D2]
-Possible time error in game 1204472
-[R2, D1, D2]
-Possible time error in game 1204493
-[R2, D1, D2]
-Possible time error in game 1204494
-[R2, D1, D2]
-Possible time error in game 1204592
-[R2, D1, D2]
-Possible time error in game 1205352
-[R2, D1, D2]
-Possible time error in game 1205432
-[R2, D1, D2]
-Possible time error in game 1205452
-[R2, D1, D2]
-Possible time error in game 1205515
-[R2, D1, D2]
-Possible time error in game 1205552
-[R2, D1, D2]
-Possible time error in game 1205633
-[R2, D1, D2]
-Possible time error in game 1206495
-[R2, D1, D2]
-Possible time error in game 1207432
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1209712
-[R2, D1, D2]
-Possible time error in game 1210772
-[R2, D1, D2]
-Possible time error in game 1213432
-[R3, R4]
-Possible time error in game 1213814
-[R2, D1, D2]
-Possible time error in game 1218723
-[R2, D1, D2]
-Possible time error in game 1219072
-[R2, D1, D2]
-Possible time error in game 1220573
-[R2, D1, D2]
-Possible time error in game 1222012
-[R4]
-Possible time error in game 1223632
-[R2, D1, D2]
-Possible time error in game 1223673
-[R3, R4]
-Possible time error in game 1224613
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1225233
-[R3]
-Possible time error in game 1228092
-[R2, D1, D2]
-Possible time error in game 1228261
-[R2, D1, D2]
-Possible time error in game 1228882
-[R2, D1, D2]
-Possible time error in game 1229276
-[R2, R3, R4, D1, D2, D3]
-Possible time error in game 1229568
-[R2, D1, D2]
-Possible time error in game 1230372
-[R2, D1, D2]
-Possible time error in game 1230693
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1230892
-01:02:02 17500
-[R3, R4]
-Possible time error in game 1233312
-[R3, R4]
-Possible time error in game 1233772
-[R2, D1, D2]
-Possible time error in game 1235732
-[R2, D1, D2]
-Possible time error in game 1236432
-[R2, D1, D2]
-Possible time error in game 1236873
-[R2, D1, D2]
-Possible time error in game 1237034
-[R2, D1, D2]
-Possible time error in game 1237601
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1238252
-[R2]
-Possible time error in game 1238273
-[R3]
-Possible time error in game 1238352
-[D3]
-Possible time error in game 1238752
-[R2, D1, D2]
-Possible time error in game 1240133
-[R2, D1, D2]
-Possible time error in game 1241021
-[R2, D1, D2]
-Possible time error in game 1242652
-[R2]
-Possible time error in game 1244812
-[R2, D1, D2]
-Possible time error in game 1245892
-[R2, D1, D2]
-Possible time error in game 1248232
-[R2, D1, D2]
-Possible time error in game 1249072
-[R3, R4]
-Possible time error in game 1250372
-[R2]
-Possible time error in game 1251573
-[R3]
-Possible time error in game 1253672
-[R2, R1]
-Possible time error in game 1253793
-[R2, D1, D2]
-Possible time error in game 1254982
-[R2, R3, D1, D2, D3]
-Possible time error in game 1255255
-[R2, D1, D2]
-Possible time error in game 1255512
-[R2, D1, D2]
-Possible time error in game 1255532
-[R2]
-Possible time error in game 1256261
-[R2, D1, D2]
-Possible time error in game 1256679
-[R2, D1, D2]
-Possible time error in game 1257392
-[R3, R4]
-Possible time error in game 1257904
-[R3, R4]
-Possible time error in game 1257909
-[R2, D1, D2]
-Possible time error in game 1258634
-[R2, D1, D2]
-Possible time error in game 1258873
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1259272
-[R2, D1, D2]
-Possible time error in game 1260912
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1261332
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1261567
-[R2, R3, D1, D2, D3]
-Possible time error in game 1261857
-[R3, R4]
-Possible time error in game 1262334
-[R2, D1, D2]
-Possible time error in game 1263293
-[R3]
-Possible time error in game 1263452
-[D1, D2]
-Possible time error in game 1264778
-[R2, D1, D2]
-Possible time error in game 1265092
-[R2, D1, D2]
-Possible time error in game 1266172
-[R2, D1, D2]
-Possible time error in game 1267092
-[R2, D1, D2]
-Possible time error in game 1267112
-[R2, D1, D2]
-Possible time error in game 1267273
-[R2, D1, D2]
-Possible time error in game 1268312
-[R2, D1, D2]
-Possible time error in game 1268472
-[R3]
-Possible time error in game 1268832
-[R2, D1, D2]
-Possible time error in game 1268872
-[R2, D1, D2]
-Possible time error in game 1268992
-[R2, D1, D2]
-Possible time error in game 1269272
-[R2, D1, D2]
-Possible time error in game 1269373
-[D1, D2]
-Possible time error in game 1269393
-[R2, D1, D2]
-Possible time error in game 1269633
-[R2, D1, D2]
-Possible time error in game 1269677
-[R2, D1, D2]
-Possible time error in game 1269752
-[R3, R4]
-Possible time error in game 1269777
-[R2, D1, D2]
-Possible time error in game 1269781
-[R2]
-Possible time error in game 1270179
-[R2, D1, D2]
-Possible time error in game 1271072
-[R2]
-Possible time error in game 1271993
-[R2, D1, D2]
-Possible time error in game 1272299
-[R3, R4]
-Possible time error in game 1274574
-[R2, D1, D2]
-Possible time error in game 1274813
-[R2]
-Possible time error in game 1275492
-[R2, D1, D2]
-Possible time error in game 1279814
-[R2, D1, D2]
-Possible time error in game 1279841
-[R2, D1, D2]
-Possible time error in game 1280472
-[R4]
-Possible time error in game 1281296
-[R4]
-Possible time error in game 1281381
-[R2]
-Possible time error in game 1282613
-[R2, D1, D2]
-Possible time error in game 1282634
-[R2, D1, D2]
-Possible time error in game 1283144
-[R2, D1, D2]
-Possible time error in game 1283151
-[R2, D1, D2]
-Possible time error in game 1283172
-[R2, D1, D2]
-Possible time error in game 1283414
-[R3, R4]
-Possible time error in game 1283438
-[R2, D1, D2]
-Possible time error in game 1283446
-[R2]
-Possible time error in game 1283789
-[R2, D1, D2]
-Possible time error in game 1284379
-[R3, R4]
-Possible time error in game 1284450
-[R2, D1, D2]
-Possible time error in game 1284579
-[R2, D1, D2]
-Possible time error in game 1284716
-[R2, D1, D2]
-Possible time error in game 1284817
-[R2, D1, D2]
-Possible time error in game 1286300
-[R2, D1, D2]
-Possible time error in game 1286304
-[R3, R4]
-Possible time error in game 1286320
-[R2, R3, D1, D2]
-Possible time error in game 1286378
-[R2, D1, D2]
-Possible time error in game 1286493
-[R2, D1, D2]
-Possible time error in game 1286532
-[R2, D1, D2]
-Possible time error in game 1286536
-[R2, D1, D2]
-Possible time error in game 1286631
-[R2, D1, D2]
-Possible time error in game 1286776
-[R2, D1, D2]
-Possible time error in game 1286818
-[R2, D1, D2]
-Possible time error in game 1286873
-[R2, R3, D1, D2, D3]
-Possible time error in game 1288552
-[R2, D1, D2]
-Possible time error in game 1288576
-[R2, D1, D2]
-Possible time error in game 1288876
-[R2, D1, D2]
-Possible time error in game 1288941
-[R2, R1]
-Possible time error in game 1288999
-[R2, D1, D2]
-Possible time error in game 1289058
-[R2, D1, D2]
-Possible time error in game 1289094
-[R2, D1, D2]
-Possible time error in game 1289104
-[R2, D1, D2]
-Possible time error in game 1289177
-[R2, D1, D2]
-Possible time error in game 1289500
-[R2]
-Possible time error in game 1289832
-[R2, D1, D2]
-Possible time error in game 1290241
-[R2, D1, D2]
-Possible time error in game 1290313
-[R2, D1, D2]
-Possible time error in game 1290893
-[R2, D1, D2]
-Possible time error in game 1290910
-[R2, D1, D2]
-Possible time error in game 1292479
-[R3, R4]
-Possible time error in game 1292797
-[R2, D1, D2]
-Possible time error in game 1293032
-[R2, D1, D2]
-Possible time error in game 1293072
-01:10:51 20000
-[R2, D1, D2]
-Possible time error in game 1294393
-[R2]
-Possible time error in game 1294412
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1294536
-[R2, D1, D2]
-Possible time error in game 1294891
-[R2, D1, D2]
-Possible time error in game 1295395
-[D4]
-Possible time error in game 1295580
-[R2, D1, D2]
-Possible time error in game 1296073
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1296558
-[R2, D1, D2]
-Possible time error in game 1296740
-[R3, R4]
-Possible time error in game 1297548
-[R2]
-Possible time error in game 1298133
-[R2, D1, D2]
-Possible time error in game 1298394
-[R3, R4]
-Possible time error in game 1298633
-[R3, R4]
-Possible time error in game 1298698
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1298702
-[R3, R4]
-Possible time error in game 1298743
-[R2, D1, D2]
-Possible time error in game 1298823
-[R2, D1, D2]
-Possible time error in game 1298933
-[R2, D1, D2]
-Possible time error in game 1300494
-[R2, D1, D2]
-Possible time error in game 1300914
-[R2, D1, D2]
-Possible time error in game 1301079
-[R2, D1, D2]
-Possible time error in game 1301339
-[R2, D1, D2]
-Possible time error in game 1301420
-[R2, D1, D2]
-Possible time error in game 1302113
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 1302652
-[R2, D1, D2]
-Possible time error in game 1302992
-[R2, D1, D2]
-Possible time error in game 1306178
-[R2, D1, D2]
-Possible time error in game 1306733
-[R2, D1, D2]
-Possible time error in game 1307372
-[R2]
-Possible time error in game 1307732
-[R2, R3, D1, D2, D3]
-Possible time error in game 1308253
-[R3]
-Possible time error in game 1309413
-[R3, R4]
-Possible time error in game 1309613
-[R2, D1, D2]
-Possible time error in game 1309755
-[R2]
-Possible time error in game 1310054
-[R2, R3, D1, D2]
-Possible time error in game 1310492
-[R3, R4]
-Possible time error in game 1311272
-[R2]
-Possible time error in game 1312592
-[R2]
-Possible time error in game 1312872
-[R2, D1, D2]
-Possible time error in game 1313112
-[R2, D1]
-Possible time error in game 1313612
-[R2, D1, D2]
-Possible time error in game 1314723
-[R3, R4]
-Possible time error in game 1316027
-[R2, R3, R4]
-Possible time error in game 1316173
-[R2, R3, R4]
-Possible time error in game 1316733
-[R3, R4]
-Possible time error in game 1316872
-[R2]
-Possible time error in game 1316974
-[R1]
-Possible time error in game 1318453
-[R2]
-Possible time error in game 1319454
-[R4]
-Possible time error in game 1319462
-[D4, R4]
-Possible time error in game 1319472
-[R2, R3, D1, D2, D3]
-Possible time error in game 1319853
-[R2]
-Possible time error in game 1321172
-[R2, D1, D2]
-Possible time error in game 1321394
-[R3, R4]
-Possible time error in game 1321414
-[R2, D1, D2]
-Possible time error in game 1321432
-[R2, D1, D2]
-Possible time error in game 1322335
-[R2, D1, D2]
-Possible time error in game 1322354
-[R2, R3, R4]
-Possible time error in game 1322552
-[R2, R3, R4, R1]
-Possible time error in game 1322593
-[R3]
-Possible time error in game 1322676
-[R2, R3, R4, D1, D2, D3]
-Possible time error in game 1322693
-[R2, R3, R4]
-Possible time error in game 1323292
-[R2, D1, D2]
-Possible time error in game 1324152
-[R3, R4]
-Possible time error in game 1325032
-[R2, R3, R4, R5]
-Possible time error in game 1325652
-[R2, R3, R4]
-Possible time error in game 1326052
-[R2, R3, R4]
-Possible time error in game 1327159
-[R2, D1, D2]
-Possible time error in game 1327492
-[R2, D1, D2]
-Possible time error in game 1328872
-[R4]
-Possible time error in game 1329292
-[R4]
-Possible time error in game 1331407
-[R2, D1, D2]
-Possible time error in game 1331543
-[R2, D1, D2]
-Possible time error in game 1331545
-[R2, D1, D2]
-Possible time error in game 1331548
-[R2, D1, D2]
-Possible time error in game 1331572
-[R2, R3, R4]
-Possible time error in game 1331789
-[R2, R3, R4]
-Possible time error in game 1331791
-[R2, R3, R4, R1]
-Possible time error in game 1331974
-[R2, R3, R4, R1]
-Possible time error in game 1332052
-[R2, R3, R4]
-Possible time error in game 1332112
-[R2, R3, R4]
-Possible time error in game 1332672
-[R2, R3, R4]
-Possible time error in game 1334393
-[R2, R3, R4]
-Possible time error in game 1334692
-[R2, R3, R4, R1]
-Possible time error in game 1335460
-[R2, R3, R4]
-Possible time error in game 1335573
-[R2, D1, D2]
-Possible time error in game 1336812
-[R2, R3, R4]
-Possible time error in game 1337325
-[R2, R3, R4, R1]
-Possible time error in game 1337334
-[R2, R3, R4]
-Possible time error in game 1337705
-[R2, R3, R4]
-Possible time error in game 1337707
-[R2, R3, R4]
-Possible time error in game 1338072
-[R2, D1, D2]
-Possible time error in game 1338392
-[R2, R3, R4]
-Possible time error in game 1339532
-[R2, R3, R4]
-Possible time error in game 1339552
-[R2, D1, D2]
-Possible time error in game 1340412
-[R2, D1, D2]
-Possible time error in game 1344325
-[R2, R3, R4]
-Possible time error in game 1346652
-[R2, R3, R4]
-Possible time error in game 1347032
-[R2, D1, D2]
-Possible time error in game 1347393
-[R2, R3, R4, R1]
-Possible time error in game 1350152
-[R2, R3, R4]
-Possible time error in game 1356172
-[R2, D1, D2]
-Possible time error in game 1356312
-[R2, D1, D2]
-Possible time error in game 1367032
-[R2, R3, R4]
-Possible time error in game 1370133
-[R2, R3, R4, R1]
-Possible time error in game 1371735
-[R2, D1, D2]
-Possible time error in game 1374613
-[R2, R3, R4]
-Possible time error in game 1374772
-[R2, D1, D2]
-Possible time error in game 1380392
-[R2, D1, D2]
-Possible time error in game 1390075
-01:19:57 22500
-[R2, D1, D2]
-Possible time error in game 2225833
-[R2]
-Possible time error in game 2226233
-[R2, D1, D2]
-Possible time error in game 2227406
-[R2, D1, D2]
-Possible time error in game 2227412
-[R3, R4]
-Possible time error in game 2227453
-[R2]
-Possible time error in game 2227816
-[R3, R4]
-Possible time error in game 2227893
-[R2]
-Possible time error in game 2228693
-[R2]
-Possible time error in game 2228920
-[R2, D1, D2]
-Possible time error in game 2229253
-[R3, R4]
-Possible time error in game 2229745
-[R2]
-Possible time error in game 2231373
-[R3, R4]
-Possible time error in game 2231902
-[R2, D1, D2]
-Possible time error in game 2232033
-[R3, R4]
-Possible time error in game 2233348
-[R3, R4]
-Possible time error in game 2233552
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 2233740
-[R3]
-Possible time error in game 2240255
-[R2, R3, D1, D2, D3]
-Possible time error in game 2240753
-[R4]
-Possible time error in game 2240914
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 2245074
-[R3, R4]
-Possible time error in game 2246333
-[R3, R4]
-Possible time error in game 2247360
-[R3]
-Possible time error in game 2250112
-[R2, D1, D2]
-Possible time error in game 2250533
-[R3]
-Possible time error in game 2259614
-[R3]
-Possible time error in game 2261353
-[R3]
-Possible time error in game 2262074
-[R2, D1]
-Possible time error in game 2262535
-[R4]
-Possible time error in game 2274937
-[R2, D1, D2]
-Possible time error in game 2280265
-[R2, D1, D2]
-Possible time error in game 2284060
-[R3, R4]
-Possible time error in game 2284068
-[R3]
-Possible time error in game 2285709
-[R3]
-Possible time error in game 2285733
-[R3, R4]
-Possible time error in game 2293137
-[R2, D1, D2]
-Possible time error in game 2293194
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 2297993
-[R3, R4]
-Possible time error in game 2306725
-[R3, R4]
-Possible time error in game 2311219
-[R2]
-Possible time error in game 2314535
-[R2, D1, D2]
-Possible time error in game 2318573
-[R2, R3, D1, D2, D3]
-Possible time error in game 2326435
-[R2, R3, R1]
-Possible time error in game 2338519
-[R3, R4]
-Possible time error in game 2340873
-01:28:40 25000
-[R2, R3, R4]
-Possible time error in game 2344273
-[R2, D1, D2]
-Possible time error in game 2351527
-[R3]
-Possible time error in game 2357295
-[D4, R4]
-Possible time error in game 2359420
-[R2, D1, D2]
-Possible time error in game 2360353
-[R2, D1, D2]
-Possible time error in game 2361753
-[R2, D1, D2]
-Possible time error in game 2362753
-[R3, R4]
-Possible time error in game 2364493
-[R2, D1, D2]
-Possible time error in game 2365633
-[D1]
-Possible time error in game 2368573
-[R2, D1, D2]
-Possible time error in game 2369713
-[R3]
-Possible time error in game 2376213
-[R3, R4]
-Possible time error in game 2380993
-[R3]
-Possible time error in game 2384207
-[R3, R4]
-Possible time error in game 2384413
-[R2, D1, D2]
-Possible time error in game 2392233
-[R2, D1, D2]
-Possible time error in game 2395348
-[R3, R4]
-Possible time error in game 2396639
-[R2, D1, D2]
-Possible time error in game 2402594
-[R2]
-Possible time error in game 2408073
-[R2, D1, D2, R1]
-Possible time error in game 2409015
-[R2, D1, D2]
-Possible time error in game 2409780
-[R2]
-Possible time error in game 2410553
-[D2]
-Possible time error in game 2410573
-[R2]
-Possible time error in game 2410653
-[R3, R4]
-Possible time error in game 2410675
-[R3, R4]
-Possible time error in game 2411574
-[R3, R4]
-Possible time error in game 2412233
-[R4]
-Possible time error in game 2412664
-[R2]
-Possible time error in game 2413234
-[R3, R4]
-Possible time error in game 2416919
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 2417840
-[R3, R4]
-Possible time error in game 2419491
-[R3, R4]
-Possible time error in game 2419598
-[R2, D1, D2]
-Possible time error in game 2419606
-[R2, D1, D2]
-Possible time error in game 2420837
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 2425494
-[R3, R4]
-Possible time error in game 2426778
-[R2, D1]
-Possible time error in game 2436779
-[R1]
-Possible time error in game 2438213
-[R4]
-Possible time error in game 2440353
-[R3]
-Possible time error in game 2443154
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 2443259
-[R2, D1, D2]
-Possible time error in game 2445051
-[R2]
-Possible time error in game 2445430
-[R2]
-Possible time error in game 2445477
-[R2, D1, D2]
-Possible time error in game 2445883
-01:37:52 27500
-[R2, D1, D2]
-Possible time error in game 2446732
-[R3]
-Possible time error in game 2446885
-[R2, D1, D2]
-Possible time error in game 2448534
-[R3]
-Possible time error in game 2451007
-[R2, R1]
-Possible time error in game 2451975
-[R2, R3, D1, D2, D3]
-Possible time error in game 2452035
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 2452183
-[R2, D1, D2]
-Possible time error in game 2452185
-[R3, R4]
-Possible time error in game 2453473
-[R2, D1, D2]
-Possible time error in game 2456293
-[R2, D1, D2]
-Possible time error in game 2473515
-[R3]
-Possible time error in game 2473734
-[R2, R3, D1, D2]
-Possible time error in game 2475413
-[R3, R4]
-Possible time error in game 2477000
-[R2, D1, D2]
-Possible time error in game 2479624
-[R3]
-Possible time error in game 2479949
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 2483343
-[R4]
-Possible time error in game 2484733
-[R3]
-Possible time error in game 2486619
-[R3, R4]
-Possible time error in game 2487293
-[R2, D1, D2]
-Possible time error in game 2488794
-[R2, R3, D1, D2, D3]
-Possible time error in game 2496093
-[R2, D1, D2]
-Possible time error in game 2504973
-[R2, D1, D2]
-Possible time error in game 2518073
-[R2, D1, D2]
-Possible time error in game 2518213
-[R2, D1, D2]
-Possible time error in game 2519433
-[R2, D1, D2]
-Possible time error in game 2525593
-[R2, D1, D2]
-Possible time error in game 2529333
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 2529455
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 2530813
-[R4]
-Possible time error in game 2533253
-[R2, D1, D2]
-Possible time error in game 2533494
-[R2]
-Possible time error in game 2535462
-[R1]
-Possible time error in game 2535513
-[R3]
-Possible time error in game 2537214
-[R4]
-Possible time error in game 2539878
-[R2, D1, D2]
-Possible time error in game 2551835
-[R2, D1, D2]
-Possible time error in game 2567513
-[R2]
-Possible time error in game 2585493
-[R2, D1, D2]
-Possible time error in game 2588774
-01:47:45 30000
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 2596694
-[R2, D1, D2]
-Possible time error in game 2602106
-[R2]
-Possible time error in game 2602733
-[R2, D1, D2]
-Possible time error in game 2603613
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 2604234
-[R2, D1, D2]
-Possible time error in game 2604235
-[R3, R4]
-Possible time error in game 2608035
-[R3, R4]
-Possible time error in game 2608574
-[R2, D1, D2]
-Possible time error in game 2610333
-[R4]
-Possible time error in game 2618754
-[R3, R4]
-Possible time error in game 2623293
-[R4]
-Possible time error in game 2627863
-[R3, R4]
-Possible time error in game 2628757
-[D1]
-Possible time error in game 2632695
-[R2, D1, D2]
-Possible time error in game 2632697
-[R2, D1, D2]
-Possible time error in game 2632701
-[R2, D1, D2]
-Possible time error in game 2636025
-[R2, D1, D2]
-Possible time error in game 2636026
-[R2, D1, D2]
-Possible time error in game 2636027
-[R2, D1, D2]
-Possible time error in game 2636029
-[R2, D1, D2]
-Possible time error in game 2636094
-[R2, D1, D2]
-Possible time error in game 2636113
-[R2, D1, D2]
-Possible time error in game 2636118
-[R4]
-Possible time error in game 2638451
-[R2, D4, R3, R4, D1, D2]
-Possible time error in game 2638893
-[R2, D1, D2]
-Possible time error in game 2638994
-[R4]
-Possible time error in game 2642648
-[R3, R4]
-Possible time error in game 2644033
-[R2, D1, D2]
-Possible time error in game 2645474
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 2647213
-[R1]
-Possible time error in game 2649413
-[R2, R3, R4]
-Possible time error in game 2651753
-[R3, R4]
-Possible time error in game 2655934
-[R2, R3, R4]
-Possible time error in game 2658923
-[R3]
-Possible time error in game 2661204
-[R2, D1, D2]
-Possible time error in game 2663653
-[R3, R4]
-Possible time error in game 2664034
-[R2, R3, R4]
-Possible time error in game 2665917
-[R2, R3, R4, R1]
-Possible time error in game 2666873
-[R2, R3, R4]
-Possible time error in game 2667013
-[R2, D1, D2]
-Possible time error in game 2667309
-[R2, R3, R4]
-Possible time error in game 2669275
-[R2, R3, R4]
-Possible time error in game 2671213
-[R2, R3, R4]
-Possible time error in game 2671227
-[R3]
-Possible time error in game 2673096
-[R2, R3, D1, D2, D3]
-Possible time error in game 2673373
-[R3]
-Possible time error in game 2673870
-[R2, R3, R4]
-Possible time error in game 2675067
-[R2, R3, R4]
-Possible time error in game 2675389
-[R2, R3, R4, R1]
-Possible time error in game 2675433
-[R2, R3, R4]
-Possible time error in game 2677113
-[R2, R3, R4]
-Possible time error in game 2678093
-[R2, D1, D2]
-Possible time error in game 2678781
-[R2, R3, R4]
-Possible time error in game 2679413
-[R2, R3, R4]
-Possible time error in game 2679661
-[R2, R3, R4]
-Possible time error in game 2679733
-[R2, R3, R4]
-Possible time error in game 2680094
-[R2, D1, D2]
-Possible time error in game 2681024
-[R2, R3, R4]
-Possible time error in game 2681616
-[R2, R3, R4]
-Possible time error in game 2683953
-[R2]
-Possible time error in game 2684050
-[R2, R3, R4]
-Possible time error in game 2685153
-[R2, R3, R4]
-Possible time error in game 2685333
-[R4]
-Possible time error in game 2686746
-[R2, R3, R4]
-Possible time error in game 2686916
-[R2]
-Possible time error in game 2687135
-[R2, R3, R4]
-Possible time error in game 2688293
-[R2, R3, R4, R1]
-Possible time error in game 2688673
-[R2, R3, R4]
-Possible time error in game 2688993
-[R2, R3, R4]
-Possible time error in game 2689201
-[R2, R3, R4]
-Possible time error in game 2689728
-[R2, D1, D2]
-Possible time error in game 2689731
-[R2, R3, R4]
-Possible time error in game 2690490
-[R2]
-Possible time error in game 2690524
-[R2, R3, R4]
-Possible time error in game 2693929
-[R2, R3, R4]
-Possible time error in game 2694045
-[R2, R3, R4, R1]
-Possible time error in game 2695953
-[R2, R3, R4]
-Possible time error in game 2697113
-[R2]
-Possible time error in game 2697284
-[R2, R3, R4]
-Possible time error in game 2697593
-[R2, R3, R4]
-Possible time error in game 2707517
-[R2, R3, R4]
-Possible time error in game 2707573
-[R2, R3, R4]
-Possible time error in game 2708173
-[R2, D1, D2]
-Possible time error in game 2708233
-[R2, R3, R4]
-Possible time error in game 2709673
-[R2, D1, D2]
-Possible time error in game 2710753
-[R2, R3, R4]
-Possible time error in game 2717094
-[R2, D1, D2]
-Possible time error in game 2721813
-[R2, R3, R4]
-Possible time error in game 2725280
-[R2, R3, R4, R1]
-Possible time error in game 2729994
-[R2, R3, R4, R1]
-Possible time error in game 2731593
-[R2, R3, R4]
-Possible time error in game 2732156
-[R2, R3]
-Possible time error in game 2737632
-[R2, R3, R4]
-Possible time error in game 2739411
-[R2, R3, R4]
-Possible time error in game 2740396
-[R2, R3, R4]
-Possible time error in game 2749535
-[R2, D1, D2]
-Possible time error in game 2758253
-[R2, D1, D2]
-Possible time error in game 2758273
-[R2, D1, D2]
-Possible time error in game 2758313
-[R2, D1, D2]
-Possible time error in game 2758353
-[R2, D1, D2]
-Possible time error in game 2758373
-[R2, D1, D2]
-Possible time error in game 2758393
-[R2, D1, D2]
-Possible time error in game 2758433
-[R2, D1, D2]
-Possible time error in game 2758473
-[D2]
-Possible time error in game 2763493
-[R2, D1, D2]
-Possible time error in game 2779983
-[R2, D1, D2]
-Possible time error in game 2784794
-[R2, R3, R4, R1]
-Possible time error in game 2808933
-[R2, R3, R1, D3]
-Possible time error in game 2828833
-[R2, R3, R4]
-Possible time error in game 2830773
-[R2, R3, R4]
-Possible time error in game 2844353
-[R2, R3, R4]
-Possible time error in game 3392224
-01:56:56 32500
-[R3]
-Possible time error in game 3418813
-[R3, R4]
-Possible time error in game 3418975
-[R3, R4]
-Possible time error in game 3419047
-[R2, D1, D2]
-Possible time error in game 3419054
-[R3]
-Possible time error in game 3419227
-[R2, D1, D2]
-Possible time error in game 3419346
-[R2, D1, D2]
-Possible time error in game 3419465
-[R2, D1, D2]
-Possible time error in game 3419484
-[R2]
-Possible time error in game 3419853
-[R3, R4]
-Possible time error in game 3419858
-[R2, D1, D2]
-Possible time error in game 3420081
-[R2, D1, D2]
-Possible time error in game 3420097
-[R2, D1, D2]
-Possible time error in game 3420126
-[R3, R4]
-Possible time error in game 3420186
-[R3, R4]
-Possible time error in game 3420373
-[R2]
-Possible time error in game 3420415
-[R3, R4]
-Possible time error in game 3420622
-[R2, D1, D2]
-Possible time error in game 3421440
-[R2]
-Possible time error in game 3421670
-[R3, D3]
-Possible time error in game 3421941
-[R2, D1, D2]
-Possible time error in game 3421981
-[D2]
-Possible time error in game 3422297
-[R3]
-Possible time error in game 3422832
-[R2, R3, R4]
-Possible time error in game 3422850
-[R2]
-Possible time error in game 3422981
-[R2, D1, D2]
-Possible time error in game 3423113
-[R3, R4]
-Possible time error in game 3423293
-[R3, R4]
-Possible time error in game 3423384
-[R3, R4]
-Possible time error in game 3423539
-[R1]
-Possible time error in game 3423693
-[R2, D1, D2]
-Possible time error in game 3423994
-[R2]
-Possible time error in game 3424158
-[R3, R4]
-Possible time error in game 3424252
-[R2, D1, D2]
-Possible time error in game 3424758
-[R2, D1, D2]
-Possible time error in game 3425072
-[R3]
-Possible time error in game 3425425
-[R2, D1, D2]
-Possible time error in game 3425781
-[R2, D1, D2]
-Possible time error in game 3427239
-[R2, D1, D2]
-Possible time error in game 3427354
-[R2, D1, D2]
-Possible time error in game 3427372
-[R3]
-Possible time error in game 3427736
-[R2, D1, D2]
-Possible time error in game 3428353
-[R2, D1, D2]
-Possible time error in game 3428671
-[R3, R4]
-Possible time error in game 3428686
-[R2, D1, D2]
-Possible time error in game 3428828
-[R3]
-Possible time error in game 3429357
-[R3, R4]
-Possible time error in game 3429498
-[R3]
-Possible time error in game 3430466
-[R2, D1, D2]
-Possible time error in game 3430693
-[R2, D1, D2]
-Possible time error in game 3430793
-[R2]
-Possible time error in game 3430857
-[R2]
-Possible time error in game 3430953
-[R2, D1, D2]
-Possible time error in game 3430968
-[R2, D1, D2]
-Possible time error in game 3431148
-[R2, R3, D2, D3]
-Possible time error in game 3431701
-[R3]
-Possible time error in game 3431895
-[R2]
-Possible time error in game 3431949
-[R2]
-Possible time error in game 3432126
-[R3, R4]
-Possible time error in game 3432830
-[R2, D1, D2]
-Possible time error in game 3433492
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 3433796
-[R2, D1, D2]
-Possible time error in game 3434437
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 3434595
-[R2, D1, D2]
-Possible time error in game 3435375
-02:06:01 35000
-[R1]
-Possible time error in game 3435779
-[R2]
-Possible time error in game 3435814
-[R2, D1, D2]
-Possible time error in game 3435902
-[R2, D1, D2]
-Possible time error in game 3437097
-[R3, R4]
-Possible time error in game 3437116
-[R2, D1, D2]
-Possible time error in game 3437132
-[R2, D1, D2]
-Possible time error in game 3437187
-[R3, R4]
-Possible time error in game 3437501
-[R4]
-Possible time error in game 3437768
-[R2]
-Possible time error in game 3437796
-[R2, D1, D2]
-Possible time error in game 3437975
-[R3]
-Possible time error in game 3438084
-[R2, D1, D2]
-Possible time error in game 3438274
-[R2, D1, D2]
-Possible time error in game 3438426
-[R3, R4]
-Possible time error in game 3438524
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 3439046
-[R3]
-Possible time error in game 3439090
-[R3, R4]
-Possible time error in game 3439184
-[R3]
-Possible time error in game 3441062
-[R3]
-Possible time error in game 3441114
-[R3, R4]
-Possible time error in game 3441170
-[R2, D1, D2]
-Possible time error in game 3442348
-[R2, D1, D2]
-Possible time error in game 3442393
-[R3, R4]
-Possible time error in game 3442531
-[R2, D1, D2]
-Possible time error in game 3443138
-[R4]
-Possible time error in game 3443233
-[R3, R4]
-Possible time error in game 3443872
-[R3, R4]
-Possible time error in game 3445996
-[R3, R4]
-Possible time error in game 3446649
-[R2]
-Possible time error in game 3447024
-[R2, D1, D2]
-Possible time error in game 3447367
-[R2, D1, D2]
-Possible time error in game 3447488
-[R2, D1, D2]
-Possible time error in game 3447770
-[R2]
-Possible time error in game 3448018
-[R2, D1, D2]
-Possible time error in game 3448999
-[R2, D1, D2]
-Possible time error in game 3449108
-[R2, D1, D2]
-Possible time error in game 3449228
-[R2, D1, D2]
-Possible time error in game 3449441
-[R2, D1, D2]
-Possible time error in game 3450583
-[R2, D1, D2]
-Possible time error in game 3450710
-[R3]
-Possible time error in game 3450844
-[R2, R3, R1]
-Possible time error in game 3450964
-[R2]
-Possible time error in game 3450994
-[R3]
-Possible time error in game 3451328
-[R2, D1, D2]
-Possible time error in game 3451397
-[R2, D1, D2]
-Possible time error in game 3451645
-[R2, D1, D2]
-Possible time error in game 3451697
-[R2, D1, D2]
-Possible time error in game 3451903
-[R2, D1, D2]
-Possible time error in game 3452952
-[R2]
-Possible time error in game 3454885
-[R3, R4]
-Possible time error in game 3457290
-02:15:09 37500
-[R2, D1, D2]
-Possible time error in game 3460130
-[R4]
-Possible time error in game 3460476
-[R3, R4]
-Possible time error in game 3460864
-[R3]
-Possible time error in game 3461655
-[D1]
-Possible time error in game 3461864
-[R2, D1, D2]
-Possible time error in game 3462744
-[R3, R4]
-Possible time error in game 3463211
-[R2, D1, D2]
-Possible time error in game 3463681
-[R3]
-Possible time error in game 3463765
-[R3]
-Possible time error in game 3464652
-[R2, D1, D2]
-Possible time error in game 3464929
-[R2, D1, D2]
-Possible time error in game 3465012
-[R2, D1, D2]
-Possible time error in game 3465118
-[R2, D1, D2]
-Possible time error in game 3465902
-[R2, D1, D2]
-Possible time error in game 3466364
-[R2]
-Possible time error in game 3466660
-[R2, D1, D2]
-Possible time error in game 3467116
-[R4]
-Possible time error in game 3467948
-[R4]
-Possible time error in game 3468041
-[R4]
-Possible time error in game 3468217
-[R2, D1, D2]
-Possible time error in game 3468272
-[R2, D1, D2]
-Possible time error in game 3468320
-[R2, D1, D2]
-Possible time error in game 3468382
-[R3]
-Possible time error in game 3468399
-[R2, D1, D2]
-Possible time error in game 3468742
-[R2, D1, D2]
-Possible time error in game 3469148
-[R2]
-Possible time error in game 3469184
-[R4]
-Possible time error in game 3470753
-[R2, D1, D2]
-Possible time error in game 3471655
-[R2, D1, D2]
-Possible time error in game 3471952
-[R2, D1, D2]
-Possible time error in game 3472270
-[R2, D1, D2]
-Possible time error in game 3473051
-[R3]
-Possible time error in game 3473486
-[R2, D1, D2]
-Possible time error in game 3473504
-[R2, D1, D2]
-Possible time error in game 3473546
-[R3]
-Possible time error in game 3474265
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 3475207
-[R2, D1, D2]
-Possible time error in game 3476253
-[R4]
-Possible time error in game 3476746
-[R2, D1, D2]
-Possible time error in game 3476791
-[R2]
-Possible time error in game 3477631
-[R2, D1, D2]
-Possible time error in game 3477659
-[R2]
-Possible time error in game 3478189
-[R2, D1, D2]
-Possible time error in game 3478269
-[R2, D1, D2]
-Possible time error in game 3478313
-[R2]
-Possible time error in game 3478504
-[R2, D1, D2]
-Possible time error in game 3479609
-[R4]
-Possible time error in game 3479616
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 3479746
-[R2, D1, D2]
-Possible time error in game 3480085
-02:24:25 40000
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 3480550
-[R2, D1, D2, R1]
-Possible time error in game 3480857
-[R2, D1, D2]
-Possible time error in game 3480880
-[R2, D1, D2]
-Possible time error in game 3481207
-[R3]
-Possible time error in game 3481790
-[R2, D1, D2]
-Possible time error in game 3483176
-[D4]
-Possible time error in game 3483207
-[R2]
-Possible time error in game 3483216
-[R2, D1, D2]
-Possible time error in game 3484473
-[R2, D1, D2]
-Possible time error in game 3484924
-[R2, R1]
-Possible time error in game 3485266
-[R2, D1, D2]
-Possible time error in game 3486041
-[R2]
-Possible time error in game 3487086
-[R2, R1]
-Possible time error in game 3487277
-[R2]
-Possible time error in game 3487849
-[R4]
-Possible time error in game 3488032
-[R2, D1, D2]
-Possible time error in game 3488168
-[R2, D1, D2]
-Possible time error in game 3488262
-[R4]
-Possible time error in game 3488273
-[R2, D1, D2]
-Possible time error in game 3489527
-[R2, R3, R4]
-Possible time error in game 3490089
-[R3]
-Possible time error in game 3490523
-[R2, D1, D2]
-Possible time error in game 3490651
-[R2, R3, R4]
-Possible time error in game 3492300
-[R1]
-Possible time error in game 3492402
-[R2, D4, R3, R4, D1, D2, D3]
-Possible time error in game 3492413
-[R2, R3, D1, D2, D3]
-Possible time error in game 3492481
-[R2, D1, D2]
-Possible time error in game 3492762
-[R2, R3, R4]
-Possible time error in game 3492787
-[R2, D1, D2]
-Possible time error in game 3492956
-[R2, D4, R3, D5, R4, R5, D2, D3]
-Possible time error in game 3493631
-[R2, R3, R4]
-Possible time error in game 3494405
-[R2, R3, R4, R1]
-Possible time error in game 3494406
-[R2, R3, R4]
-Possible time error in game 3494468
-[R2, R3, R4]
-Possible time error in game 3494685
-[R2, R3, R4]
-Possible time error in game 3495490
-[R2, R3, R4]
-Possible time error in game 3495632
-[R2, D1, D2]
-Possible time error in game 3496773
-[R2, R3, R4]
-Possible time error in game 3497105
-[R2, R3, R4, R1]
-Possible time error in game 3497109
-[R3, R4]
-Possible time error in game 3497485
-[R2, R3, R4]
-Possible time error in game 3497999
-[R2, R3, R4]
-Possible time error in game 3498019
-[R2, R3, R4]
-Possible time error in game 3498605
-[R2, D1, D2]
-Possible time error in game 3499162
-[R2, R3, R4]
-Possible time error in game 3500028
-[R2, R3, R4, R5]
-Possible time error in game 3500054
-[R2, R3, R4]
-Possible time error in game 3500106
-[R2, D1, D2]
-Possible time error in game 3500153
-[R2, R3, R4]
-Possible time error in game 3500196
-[R2, R3, R4]
-Possible time error in game 3500348
-[R2, R3, R4]
-Possible time error in game 3500369
-[R2, R3, R4]
-Possible time error in game 3500582
-[R2, D1, D2]
-Possible time error in game 3500876
-[R2, R3, R4]
-Possible time error in game 3501032
-[R2, R3, R4]
-Possible time error in game 3501127
-[R2, R3, R4, R1]
-Possible time error in game 3501526
-[R2, R3, R4]
-Possible time error in game 3501539
-[R2, R3, R4]
-Possible time error in game 3505841
-[R2, R3, R4]
-Possible time error in game 3506705
-[R2, R3, R4]
-Possible time error in game 3507477
-[R2, R3, R4]
-Possible time error in game 3508772
-[R2, R3, R4]
-Possible time error in game 3509083
-[R2, D1, D2]
-Possible time error in game 3509623
-[R2, R3, R4]
-Possible time error in game 3509705
-[R2, R3, R4]
-Possible time error in game 3509747
-[R2, R3, R4]
-Possible time error in game 3509855
-[R2, R3, R4]
-Possible time error in game 3510597
-[R2, R3, R4]
-Possible time error in game 3510606
-[R3, R4]
-Possible time error in game 3510706
-[R4]
-Possible time error in game 3512370
-[R2, R3, D1, D2]
-Possible time error in game 3516184
-[R2, R3, R4]
-Possible time error in game 3517344
-[R2, R3, R4]
-Possible time error in game 3517527
-[R2, R3, R4]
-Possible time error in game 3518864
-[R2, R3, R4]
-Possible time error in game 3519265
-[R2, R3, R4]
-Possible time error in game 3560233
-[R3, R4]
-Possible time error in game 3605545
-[R2, R3, R4]
-Possible time error in game 3608984
-02:33:06
+
+[R1] Possible time error in game 1080592
+[R1] Possible time error in game 1115592
+[R1] Possible time error in game 1140614
+[R1] Possible time error in game 1167173
+[R1] Possible time error in game 1318453
+[R1] Possible time error in game 2438213
+[R1] Possible time error in game 2535513
+[R1] Possible time error in game 2649413
+[R1] Possible time error in game 322755
+[R1] Possible time error in game 334790
+[R1] Possible time error in game 3423693
+[R1] Possible time error in game 3435779
+[R1] Possible time error in game 3492402
+[R1] Possible time error in game 445755
+[R2, D1, D2] Possible time error in game 1081371
+[R2, D1, D2] Possible time error in game 1082128
+[R2, D1, D2] Possible time error in game 1083191
+[R2, D1, D2] Possible time error in game 1086471
+[R2, D1, D2] Possible time error in game 1087851
+[R2, D1, D2] Possible time error in game 1095502
+[R2, D1, D2] Possible time error in game 1096172
+[R2, D1, D2] Possible time error in game 1099077
+[R2, D1, D2] Possible time error in game 1102492
+[R2, D1, D2] Possible time error in game 1102772
+[R2, D1, D2] Possible time error in game 1105312
+[R2, D1, D2] Possible time error in game 1106135
+[R2, D1, D2] Possible time error in game 1106572
+[R2, D1, D2] Possible time error in game 1110072
+[R2, D1, D2] Possible time error in game 1115852
+[R2, D1, D2] Possible time error in game 1117420
+[R2, D1, D2] Possible time error in game 1118732
+[R2, D1, D2] Possible time error in game 1120692
+[R2, D1, D2] Possible time error in game 1121436
+[R2, D1, D2] Possible time error in game 1123574
+[R2, D1, D2] Possible time error in game 1123575
+[R2, D1, D2] Possible time error in game 1123580
+[R2, D1, D2] Possible time error in game 1124752
+[R2, D1, D2] Possible time error in game 1124772
+[R2, D1, D2] Possible time error in game 1127632
+[R2, D1, D2] Possible time error in game 1132495
+[R2, D1, D2] Possible time error in game 1133772
+[R2, D1, D2] Possible time error in game 1134386
+[R2, D1, D2] Possible time error in game 1134681
+[R2, D1, D2] Possible time error in game 1134956
+[R2, D1, D2] Possible time error in game 1135214
+[R2, D1, D2] Possible time error in game 1135712
+[R2, D1, D2] Possible time error in game 1136432
+[R2, D1, D2] Possible time error in game 1137193
+[R2, D1, D2] Possible time error in game 1137674
+[R2, D1, D2] Possible time error in game 1138593
+[R2, D1, D2] Possible time error in game 1138732
+[R2, D1, D2] Possible time error in game 1140113
+[R2, D1, D2] Possible time error in game 1140485
+[R2, D1, D2] Possible time error in game 1141072
+[R2, D1, D2] Possible time error in game 1141212
+[R2, D1, D2] Possible time error in game 1141517
+[R2, D1, D2] Possible time error in game 1143064
+[R2, D1, D2] Possible time error in game 1143072
+[R2, D1, D2] Possible time error in game 1144692
+[R2, D1, D2] Possible time error in game 1146191
+[R2, D1, D2] Possible time error in game 1146412
+[R2, D1, D2] Possible time error in game 1147993
+[R2, D1, D2] Possible time error in game 1151352
+[R2, D1, D2] Possible time error in game 1154872
+[R2, D1, D2] Possible time error in game 1155252
+[R2, D1, D2] Possible time error in game 1155852
+[R2, D1, D2] Possible time error in game 1157292
+[R2, D1, D2] Possible time error in game 1161814
+[R2, D1, D2] Possible time error in game 1163694
+[R2, D1, D2] Possible time error in game 1165513
+[R2, D1, D2] Possible time error in game 1168536
+[R2, D1, D2] Possible time error in game 1169592
+[R2, D1, D2] Possible time error in game 1169741
+[R2, D1, D2] Possible time error in game 1169746
+[R2, D1, D2] Possible time error in game 1172912
+[R2, D1, D2] Possible time error in game 1173114
+[R2, D1, D2] Possible time error in game 1173134
+[R2, D1, D2] Possible time error in game 1173177
+[R2, D1, D2] Possible time error in game 1174152
+[R2, D1, D2] Possible time error in game 1175433
+[R2, D1, D2] Possible time error in game 1175449
+[R2, D1, D2] Possible time error in game 1176434
+[R2, D1, D2] Possible time error in game 1176793
+[R2, D1, D2] Possible time error in game 1176912
+[R2, D1, D2] Possible time error in game 1176957
+[R2, D1, D2] Possible time error in game 1177075
+[R2, D1, D2] Possible time error in game 1177133
+[R2, D1, D2] Possible time error in game 1177530
+[R2, D1, D2] Possible time error in game 1178052
+[R2, D1, D2] Possible time error in game 1178872
+[R2, D1, D2] Possible time error in game 1180136
+[R2, D1, D2] Possible time error in game 1180612
+[R2, D1, D2] Possible time error in game 1181118
+[R2, D1, D2] Possible time error in game 1181792
+[R2, D1, D2] Possible time error in game 1183276
+[R2, D1, D2] Possible time error in game 1183278
+[R2, D1, D2] Possible time error in game 1191315
+[R2, D1, D2] Possible time error in game 1192142
+[R2, D1, D2] Possible time error in game 1196714
+[R2, D1, D2] Possible time error in game 1198153
+[R2, D1, D2] Possible time error in game 1198692
+[R2, D1, D2] Possible time error in game 1199832
+[R2, D1, D2] Possible time error in game 1199892
+[R2, D1, D2] Possible time error in game 1201060
+[R2, D1, D2] Possible time error in game 1201112
+[R2, D1, D2] Possible time error in game 1202130
+[R2, D1, D2] Possible time error in game 1202584
+[R2, D1, D2] Possible time error in game 1203194
+[R2, D1, D2] Possible time error in game 1203197
+[R2, D1, D2] Possible time error in game 1203412
+[R2, D1, D2] Possible time error in game 1203777
+[R2, D1, D2] Possible time error in game 1204472
+[R2, D1, D2] Possible time error in game 1204493
+[R2, D1, D2] Possible time error in game 1204494
+[R2, D1, D2] Possible time error in game 1204592
+[R2, D1, D2] Possible time error in game 1205352
+[R2, D1, D2] Possible time error in game 1205432
+[R2, D1, D2] Possible time error in game 1205452
+[R2, D1, D2] Possible time error in game 1205515
+[R2, D1, D2] Possible time error in game 1205552
+[R2, D1, D2] Possible time error in game 1205633
+[R2, D1, D2] Possible time error in game 1206495
+[R2, D1, D2] Possible time error in game 1207432
+[R2, D1, D2] Possible time error in game 1210772
+[R2, D1, D2] Possible time error in game 1213432
+[R2, D1, D2] Possible time error in game 1218723
+[R2, D1, D2] Possible time error in game 1219072
+[R2, D1, D2] Possible time error in game 1220573
+[R2, D1, D2] Possible time error in game 1222012
+[R2, D1, D2] Possible time error in game 1223673
+[R2, D1, D2] Possible time error in game 1228261
+[R2, D1, D2] Possible time error in game 1228882
+[R2, D1, D2] Possible time error in game 1229276
+[R2, D1, D2] Possible time error in game 1230372
+[R2, D1, D2] Possible time error in game 1230693
+[R2, D1, D2] Possible time error in game 1235732
+[R2, D1, D2] Possible time error in game 1236432
+[R2, D1, D2] Possible time error in game 1236873
+[R2, D1, D2] Possible time error in game 1237034
+[R2, D1, D2] Possible time error in game 1237601
+[R2, D1, D2] Possible time error in game 1240133
+[R2, D1, D2] Possible time error in game 1241021
+[R2, D1, D2] Possible time error in game 1242652
+[R2, D1, D2] Possible time error in game 1245892
+[R2, D1, D2] Possible time error in game 1248232
+[R2, D1, D2] Possible time error in game 1249072
+[R2, D1, D2] Possible time error in game 1254982
+[R2, D1, D2] Possible time error in game 1255512
+[R2, D1, D2] Possible time error in game 1255532
+[R2, D1, D2] Possible time error in game 1256679
+[R2, D1, D2] Possible time error in game 1257392
+[R2, D1, D2] Possible time error in game 1258634
+[R2, D1, D2] Possible time error in game 1258873
+[R2, D1, D2] Possible time error in game 1260912
+[R2, D1, D2] Possible time error in game 1263293
+[R2, D1, D2] Possible time error in game 1265092
+[R2, D1, D2] Possible time error in game 1266172
+[R2, D1, D2] Possible time error in game 1267092
+[R2, D1, D2] Possible time error in game 1267112
+[R2, D1, D2] Possible time error in game 1267273
+[R2, D1, D2] Possible time error in game 1268312
+[R2, D1, D2] Possible time error in game 1268472
+[R2, D1, D2] Possible time error in game 1268872
+[R2, D1, D2] Possible time error in game 1268992
+[R2, D1, D2] Possible time error in game 1269272
+[R2, D1, D2] Possible time error in game 1269373
+[R2, D1, D2] Possible time error in game 1269633
+[R2, D1, D2] Possible time error in game 1269677
+[R2, D1, D2] Possible time error in game 1269752
+[R2, D1, D2] Possible time error in game 1269781
+[R2, D1, D2] Possible time error in game 1271072
+[R2, D1, D2] Possible time error in game 1272299
+[R2, D1, D2] Possible time error in game 1274813
+[R2, D1, D2] Possible time error in game 1279814
+[R2, D1, D2] Possible time error in game 1279841
+[R2, D1, D2] Possible time error in game 1280472
+[R2, D1, D2] Possible time error in game 1282634
+[R2, D1, D2] Possible time error in game 1283144
+[R2, D1, D2] Possible time error in game 1283151
+[R2, D1, D2] Possible time error in game 1283172
+[R2, D1, D2] Possible time error in game 1283414
+[R2, D1, D2] Possible time error in game 1283446
+[R2, D1, D2] Possible time error in game 1284379
+[R2, D1, D2] Possible time error in game 1284579
+[R2, D1, D2] Possible time error in game 1284716
+[R2, D1, D2] Possible time error in game 1284817
+[R2, D1, D2] Possible time error in game 1286300
+[R2, D1, D2] Possible time error in game 1286304
+[R2, D1, D2] Possible time error in game 1286493
+[R2, D1, D2] Possible time error in game 1286532
+[R2, D1, D2] Possible time error in game 1286536
+[R2, D1, D2] Possible time error in game 1286631
+[R2, D1, D2] Possible time error in game 1286776
+[R2, D1, D2] Possible time error in game 1286818
+[R2, D1, D2] Possible time error in game 1286873
+[R2, D1, D2] Possible time error in game 1288576
+[R2, D1, D2] Possible time error in game 1288876
+[R2, D1, D2] Possible time error in game 1288941
+[R2, D1, D2] Possible time error in game 1289058
+[R2, D1, D2] Possible time error in game 1289094
+[R2, D1, D2] Possible time error in game 1289104
+[R2, D1, D2] Possible time error in game 1289177
+[R2, D1, D2] Possible time error in game 1289500
+[R2, D1, D2] Possible time error in game 1290241
+[R2, D1, D2] Possible time error in game 1290313
+[R2, D1, D2] Possible time error in game 1290893
+[R2, D1, D2] Possible time error in game 1290910
+[R2, D1, D2] Possible time error in game 1292479
+[R2, D1, D2] Possible time error in game 1293032
+[R2, D1, D2] Possible time error in game 1293072
+[R2, D1, D2] Possible time error in game 1294393
+[R2, D1, D2] Possible time error in game 1294891
+[R2, D1, D2] Possible time error in game 1295395
+[R2, D1, D2] Possible time error in game 1296073
+[R2, D1, D2] Possible time error in game 1296740
+[R2, D1, D2] Possible time error in game 1298394
+[R2, D1, D2] Possible time error in game 1298823
+[R2, D1, D2] Possible time error in game 1298933
+[R2, D1, D2] Possible time error in game 1300494
+[R2, D1, D2] Possible time error in game 1300914
+[R2, D1, D2] Possible time error in game 1301079
+[R2, D1, D2] Possible time error in game 1301339
+[R2, D1, D2] Possible time error in game 1301420
+[R2, D1, D2] Possible time error in game 1302113
+[R2, D1, D2] Possible time error in game 1302992
+[R2, D1, D2] Possible time error in game 1306178
+[R2, D1, D2] Possible time error in game 1306733
+[R2, D1, D2] Possible time error in game 1307372
+[R2, D1, D2] Possible time error in game 1309755
+[R2, D1, D2] Possible time error in game 1313112
+[R2, D1, D2] Possible time error in game 1314723
+[R2, D1, D2] Possible time error in game 1321394
+[R2, D1, D2] Possible time error in game 1321432
+[R2, D1, D2] Possible time error in game 1322335
+[R2, D1, D2] Possible time error in game 1322354
+[R2, D1, D2] Possible time error in game 1324152
+[R2, D1, D2] Possible time error in game 1327492
+[R2, D1, D2] Possible time error in game 1328872
+[R2, D1, D2] Possible time error in game 1331543
+[R2, D1, D2] Possible time error in game 1331545
+[R2, D1, D2] Possible time error in game 1331548
+[R2, D1, D2] Possible time error in game 1331572
+[R2, D1, D2] Possible time error in game 1336812
+[R2, D1, D2] Possible time error in game 1338392
+[R2, D1, D2] Possible time error in game 1340412
+[R2, D1, D2] Possible time error in game 1344325
+[R2, D1, D2] Possible time error in game 1347393
+[R2, D1, D2] Possible time error in game 1356312
+[R2, D1, D2] Possible time error in game 1367032
+[R2, D1, D2] Possible time error in game 1374613
+[R2, D1, D2] Possible time error in game 1380392
+[R2, D1, D2] Possible time error in game 1390075
+[R2, D1, D2] Possible time error in game 2225833
+[R2, D1, D2] Possible time error in game 2227406
+[R2, D1, D2] Possible time error in game 2227412
+[R2, D1, D2] Possible time error in game 2229253
+[R2, D1, D2] Possible time error in game 2232033
+[R2, D1, D2] Possible time error in game 2250533
+[R2, D1, D2] Possible time error in game 2280265
+[R2, D1, D2] Possible time error in game 2284060
+[R2, D1, D2] Possible time error in game 2293194
+[R2, D1, D2] Possible time error in game 2318573
+[R2, D1, D2] Possible time error in game 2351527
+[R2, D1, D2] Possible time error in game 2360353
+[R2, D1, D2] Possible time error in game 2361753
+[R2, D1, D2] Possible time error in game 2362753
+[R2, D1, D2] Possible time error in game 2365633
+[R2, D1, D2] Possible time error in game 2369713
+[R2, D1, D2] Possible time error in game 2392233
+[R2, D1, D2] Possible time error in game 2395348
+[R2, D1, D2] Possible time error in game 2402594
+[R2, D1, D2] Possible time error in game 2409780
+[R2, D1, D2] Possible time error in game 2419606
+[R2, D1, D2] Possible time error in game 2420837
+[R2, D1, D2] Possible time error in game 2445051
+[R2, D1, D2] Possible time error in game 2445883
+[R2, D1, D2] Possible time error in game 2446732
+[R2, D1, D2] Possible time error in game 2448534
+[R2, D1, D2] Possible time error in game 2452185
+[R2, D1, D2] Possible time error in game 2456293
+[R2, D1, D2] Possible time error in game 2473515
+[R2, D1, D2] Possible time error in game 2479624
+[R2, D1, D2] Possible time error in game 2488794
+[R2, D1, D2] Possible time error in game 2504973
+[R2, D1, D2] Possible time error in game 2518073
+[R2, D1, D2] Possible time error in game 2518213
+[R2, D1, D2] Possible time error in game 2519433
+[R2, D1, D2] Possible time error in game 2525593
+[R2, D1, D2] Possible time error in game 2529333
+[R2, D1, D2] Possible time error in game 2533494
+[R2, D1, D2] Possible time error in game 2551835
+[R2, D1, D2] Possible time error in game 2567513
+[R2, D1, D2] Possible time error in game 2588774
+[R2, D1, D2] Possible time error in game 2602106
+[R2, D1, D2] Possible time error in game 2603613
+[R2, D1, D2] Possible time error in game 2604235
+[R2, D1, D2] Possible time error in game 2610333
+[R2, D1, D2] Possible time error in game 2632697
+[R2, D1, D2] Possible time error in game 2632701
+[R2, D1, D2] Possible time error in game 2636025
+[R2, D1, D2] Possible time error in game 2636026
+[R2, D1, D2] Possible time error in game 2636027
+[R2, D1, D2] Possible time error in game 2636029
+[R2, D1, D2] Possible time error in game 2636094
+[R2, D1, D2] Possible time error in game 2636113
+[R2, D1, D2] Possible time error in game 2636118
+[R2, D1, D2] Possible time error in game 2638994
+[R2, D1, D2] Possible time error in game 2645474
+[R2, D1, D2] Possible time error in game 2663653
+[R2, D1, D2] Possible time error in game 2667309
+[R2, D1, D2] Possible time error in game 2678781
+[R2, D1, D2] Possible time error in game 2681024
+[R2, D1, D2] Possible time error in game 2689731
+[R2, D1, D2] Possible time error in game 2708233
+[R2, D1, D2] Possible time error in game 2710753
+[R2, D1, D2] Possible time error in game 2721813
+[R2, D1, D2] Possible time error in game 2758253
+[R2, D1, D2] Possible time error in game 2758273
+[R2, D1, D2] Possible time error in game 2758313
+[R2, D1, D2] Possible time error in game 2758353
+[R2, D1, D2] Possible time error in game 2758373
+[R2, D1, D2] Possible time error in game 2758393
+[R2, D1, D2] Possible time error in game 2758433
+[R2, D1, D2] Possible time error in game 2758473
+[R2, D1, D2] Possible time error in game 2779983
+[R2, D1, D2] Possible time error in game 2784794
+[R2, D1, D2] Possible time error in game 303830
+[R2, D1, D2] Possible time error in game 307851
+[R2, D1, D2] Possible time error in game 309570
+[R2, D1, D2] Possible time error in game 328170
+[R2, D1, D2] Possible time error in game 335611
+[R2, D1, D2] Possible time error in game 338110
+[R2, D1, D2] Possible time error in game 338318
+[R2, D1, D2] Possible time error in game 3419054
+[R2, D1, D2] Possible time error in game 3419346
+[R2, D1, D2] Possible time error in game 3419465
+[R2, D1, D2] Possible time error in game 3419484
+[R2, D1, D2] Possible time error in game 3420081
+[R2, D1, D2] Possible time error in game 3420097
+[R2, D1, D2] Possible time error in game 3420126
+[R2, D1, D2] Possible time error in game 3421440
+[R2, D1, D2] Possible time error in game 3421981
+[R2, D1, D2] Possible time error in game 3423113
+[R2, D1, D2] Possible time error in game 3423994
+[R2, D1, D2] Possible time error in game 3424758
+[R2, D1, D2] Possible time error in game 3425072
+[R2, D1, D2] Possible time error in game 3425781
+[R2, D1, D2] Possible time error in game 3427239
+[R2, D1, D2] Possible time error in game 3427354
+[R2, D1, D2] Possible time error in game 3427372
+[R2, D1, D2] Possible time error in game 3428353
+[R2, D1, D2] Possible time error in game 3428671
+[R2, D1, D2] Possible time error in game 3428828
+[R2, D1, D2] Possible time error in game 3430693
+[R2, D1, D2] Possible time error in game 3430793
+[R2, D1, D2] Possible time error in game 3430968
+[R2, D1, D2] Possible time error in game 3431148
+[R2, D1, D2] Possible time error in game 3433492
+[R2, D1, D2] Possible time error in game 3434437
+[R2, D1, D2] Possible time error in game 3435375
+[R2, D1, D2] Possible time error in game 3435902
+[R2, D1, D2] Possible time error in game 3437097
+[R2, D1, D2] Possible time error in game 3437132
+[R2, D1, D2] Possible time error in game 3437187
+[R2, D1, D2] Possible time error in game 3437975
+[R2, D1, D2] Possible time error in game 3438274
+[R2, D1, D2] Possible time error in game 3438426
+[R2, D1, D2] Possible time error in game 3442348
+[R2, D1, D2] Possible time error in game 3442393
+[R2, D1, D2] Possible time error in game 3443138
+[R2, D1, D2] Possible time error in game 3447367
+[R2, D1, D2] Possible time error in game 3447488
+[R2, D1, D2] Possible time error in game 3447770
+[R2, D1, D2] Possible time error in game 3448999
+[R2, D1, D2] Possible time error in game 3449108
+[R2, D1, D2] Possible time error in game 3449228
+[R2, D1, D2] Possible time error in game 3449441
+[R2, D1, D2] Possible time error in game 3450583
+[R2, D1, D2] Possible time error in game 3450710
+[R2, D1, D2] Possible time error in game 3451397
+[R2, D1, D2] Possible time error in game 3451645
+[R2, D1, D2] Possible time error in game 3451697
+[R2, D1, D2] Possible time error in game 3451903
+[R2, D1, D2] Possible time error in game 3452952
+[R2, D1, D2] Possible time error in game 3460130
+[R2, D1, D2] Possible time error in game 3462744
+[R2, D1, D2] Possible time error in game 3463681
+[R2, D1, D2] Possible time error in game 3464929
+[R2, D1, D2] Possible time error in game 3465012
+[R2, D1, D2] Possible time error in game 3465118
+[R2, D1, D2] Possible time error in game 3465902
+[R2, D1, D2] Possible time error in game 3466364
+[R2, D1, D2] Possible time error in game 3467116
+[R2, D1, D2] Possible time error in game 3468272
+[R2, D1, D2] Possible time error in game 3468320
+[R2, D1, D2] Possible time error in game 3468382
+[R2, D1, D2] Possible time error in game 3468742
+[R2, D1, D2] Possible time error in game 3469148
+[R2, D1, D2] Possible time error in game 3471655
+[R2, D1, D2] Possible time error in game 3471952
+[R2, D1, D2] Possible time error in game 3472270
+[R2, D1, D2] Possible time error in game 3473051
+[R2, D1, D2] Possible time error in game 3473504
+[R2, D1, D2] Possible time error in game 3473546
+[R2, D1, D2] Possible time error in game 3476253
+[R2, D1, D2] Possible time error in game 3476791
+[R2, D1, D2] Possible time error in game 3477659
+[R2, D1, D2] Possible time error in game 3478269
+[R2, D1, D2] Possible time error in game 3478313
+[R2, D1, D2] Possible time error in game 3479609
+[R2, D1, D2] Possible time error in game 3480085
+[R2, D1, D2] Possible time error in game 3480880
+[R2, D1, D2] Possible time error in game 3481207
+[R2, D1, D2] Possible time error in game 3483176
+[R2, D1, D2] Possible time error in game 3484473
+[R2, D1, D2] Possible time error in game 3484924
+[R2, D1, D2] Possible time error in game 3486041
+[R2, D1, D2] Possible time error in game 3488168
+[R2, D1, D2] Possible time error in game 3488262
+[R2, D1, D2] Possible time error in game 3489527
+[R2, D1, D2] Possible time error in game 3490651
+[R2, D1, D2] Possible time error in game 3492762
+[R2, D1, D2] Possible time error in game 3492956
+[R2, D1, D2] Possible time error in game 3496773
+[R2, D1, D2] Possible time error in game 3499162
+[R2, D1, D2] Possible time error in game 3500153
+[R2, D1, D2] Possible time error in game 3500876
+[R2, D1, D2] Possible time error in game 3509623
+[R2, D1, D2] Possible time error in game 352728
+[R2, D1, D2] Possible time error in game 352774
+[R2, D1, D2] Possible time error in game 354211
+[R2, D1, D2] Possible time error in game 372890
+[R2, D1, D2] Possible time error in game 380830
+[R2, D1, D2] Possible time error in game 381330
+[R2, D1, D2] Possible time error in game 399150
+[R2, D1, D2] Possible time error in game 399170
+[R2, D1, D2] Possible time error in game 399190
+[R2, D1, D2] Possible time error in game 400750
+[R2, D1, D2] Possible time error in game 400770
+[R2, D1, D2] Possible time error in game 409690
+[R2, D1, D2] Possible time error in game 414671
+[R2, D1, D2] Possible time error in game 422395
+[R2, D1, D2] Possible time error in game 422570
+[R2, D1, D2] Possible time error in game 425970
+[R2, D1, D2] Possible time error in game 434830
+[R2, D1, D2] Possible time error in game 439911
+[R2, D1, D2] Possible time error in game 443310
+[R2, D1, D2] Possible time error in game 443610
+[R2, D1, D2] Possible time error in game 445071
+[R2, D1, D2] Possible time error in game 448871
+[R2, D1, D2] Possible time error in game 454293
+[R2, D1, D2] Possible time error in game 462871
+[R2, D1, D2] Possible time error in game 466190
+[R2, D1, D2] Possible time error in game 466370
+[R2, D1, D2] Possible time error in game 472552
+[R2, D1, D2] Possible time error in game 472790
+[R2, D1, D2] Possible time error in game 479931
+[R2, D1, D2] Possible time error in game 479932
+[R2, D1, D2] Possible time error in game 481070
+[R2, D1, D2] Possible time error in game 486659
+[R2, D1, D2] Possible time error in game 488575
+[R2, D1, D2] Possible time error in game 492031
+[R2, D1, D2] Possible time error in game 494713
+[R2, D1, D2] Possible time error in game 495713
+[R2, D1, D2] Possible time error in game 496530
+[R2, D1, D2] Possible time error in game 496531
+[R2, D1, D2] Possible time error in game 500450
+[R2, D1, D2] Possible time error in game 509431
+[R2, D1, D2] Possible time error in game 516330
+[R2, D1, D2] Possible time error in game 529930
+[R2, D1, D2] Possible time error in game 530610
+[R2, D1, D2] Possible time error in game 543126
+[R2, D1, D2] Possible time error in game 549250
+[R2, D1, D2] Possible time error in game 551452
+[R2, D1, D2] Possible time error in game 563632
+[R2, D1, D2] Possible time error in game 602390
+[R2, D1] Possible time error in game 1095472
+[R2, D1] Possible time error in game 1180972
+[R2, D1] Possible time error in game 1188672
+[R2, D1] Possible time error in game 1313612
+[R2, D1] Possible time error in game 2262535
+[R2, D1] Possible time error in game 2436779
+[R2, D1] Possible time error in game 329751
+[R2, D2] Possible time error in game 383450
+[R2, D4, R3, D5, R4, R5, D2, D3] Possible time error in game 3493631
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1087751
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1113295
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1116892
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1137172
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1137192
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1142632
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1145052
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1171452
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1178013
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1179512
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1183277
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1186512
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1191732
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1198012
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1209712
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1225233
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1230892
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1238252
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1259272
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1261332
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1261567
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1294536
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1296558
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1298702
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 1302652
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 2233740
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 2245074
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 2297993
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 2417840
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 2425494
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 2443259
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 2452183
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 2483343
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 2529455
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 2530813
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 2596694
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 2604234
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 2647213
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 320790
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 322274
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 326551
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 326552
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 327595
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 3433796
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 3434595
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 3439046
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 3475207
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 3479746
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 3480550
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 3492413
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 399130
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 409330
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 441630
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 445912
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 476850
+[R2, D4, R3, R4, D1, D2, D3] Possible time error in game 492214
+[R2, D4, R3, R4, D1, D2] Possible time error in game 2638893
+[R2, D4, R3, R4, D2, D3] Possible time error in game 393252
+[R2, R1] Possible time error in game 1253793
+[R2, R1] Possible time error in game 1288999
+[R2, R1] Possible time error in game 2451975
+[R2, R1] Possible time error in game 3485266
+[R2, R1] Possible time error in game 3487277
+[R2, R3, D1, D2, D3] Possible time error in game 1106978
+[R2, R3, D1, D2, D3] Possible time error in game 1110792
+[R2, R3, D1, D2, D3] Possible time error in game 1144496
+[R2, R3, D1, D2, D3] Possible time error in game 1159352
+[R2, R3, D1, D2, D3] Possible time error in game 1202852
+[R2, R3, D1, D2, D3] Possible time error in game 1204373
+[R2, R3, D1, D2, D3] Possible time error in game 1255255
+[R2, R3, D1, D2, D3] Possible time error in game 1261857
+[R2, R3, D1, D2, D3] Possible time error in game 1288552
+[R2, R3, D1, D2, D3] Possible time error in game 1308253
+[R2, R3, D1, D2, D3] Possible time error in game 1319853
+[R2, R3, D1, D2, D3] Possible time error in game 2240753
+[R2, R3, D1, D2, D3] Possible time error in game 2326435
+[R2, R3, D1, D2, D3] Possible time error in game 2452035
+[R2, R3, D1, D2, D3] Possible time error in game 2496093
+[R2, R3, D1, D2, D3] Possible time error in game 2673373
+[R2, R3, D1, D2, D3] Possible time error in game 3492481
+[R2, R3, D1, D2, D3] Possible time error in game 400910
+[R2, R3, D1, D2, D3] Possible time error in game 465251
+[R2, R3, D1, D2, D3] Possible time error in game 470530
+[R2, R3, D1, D2] Possible time error in game 1138753
+[R2, R3, D1, D2] Possible time error in game 1286378
+[R2, R3, D1, D2] Possible time error in game 1310492
+[R2, R3, D1, D2] Possible time error in game 2475413
+[R2, R3, D1, D2] Possible time error in game 3516184
+[R2, R3, D2, D3] Possible time error in game 1078902
+[R2, R3, D2, D3] Possible time error in game 3431701
+[R2, R3, R1, D3] Possible time error in game 2828833
+[R2, R3, R1] Possible time error in game 2338519
+[R2, R3, R1] Possible time error in game 3450964
+[R2, R3, R4, D1, D2, D3] Possible time error in game 1229568
+[R2, R3, R4, D1, D2, D3] Possible time error in game 1322693
+[R2, R3, R4, D1, D3] Possible time error in game 1176961
+[R2, R3, R4, R1] Possible time error in game 1322593
+[R2, R3, R4, R1] Possible time error in game 1331974
+[R2, R3, R4, R1] Possible time error in game 1332052
+[R2, R3, R4, R1] Possible time error in game 1335460
+[R2, R3, R4, R1] Possible time error in game 1337334
+[R2, R3, R4, R1] Possible time error in game 1350152
+[R2, R3, R4, R1] Possible time error in game 1371735
+[R2, R3, R4, R1] Possible time error in game 2666873
+[R2, R3, R4, R1] Possible time error in game 2675433
+[R2, R3, R4, R1] Possible time error in game 2688673
+[R2, R3, R4, R1] Possible time error in game 2695953
+[R2, R3, R4, R1] Possible time error in game 2729994
+[R2, R3, R4, R1] Possible time error in game 2731593
+[R2, R3, R4, R1] Possible time error in game 2808933
+[R2, R3, R4, R1] Possible time error in game 3494406
+[R2, R3, R4, R1] Possible time error in game 3497109
+[R2, R3, R4, R1] Possible time error in game 3501526
+[R2, R3, R4, R1] Possible time error in game 510711
+[R2, R3, R4, R1] Possible time error in game 516070
+[R2, R3, R4, R1] Possible time error in game 526490
+[R2, R3, R4, R5] Possible time error in game 1325652
+[R2, R3, R4, R5] Possible time error in game 3500054
+[R2, R3, R4] Possible time error in game 1113307
+[R2, R3, R4] Possible time error in game 1126352
+[R2, R3, R4] Possible time error in game 1316173
+[R2, R3, R4] Possible time error in game 1316733
+[R2, R3, R4] Possible time error in game 1322552
+[R2, R3, R4] Possible time error in game 1323292
+[R2, R3, R4] Possible time error in game 1326052
+[R2, R3, R4] Possible time error in game 1327159
+[R2, R3, R4] Possible time error in game 1331789
+[R2, R3, R4] Possible time error in game 1331791
+[R2, R3, R4] Possible time error in game 1332112
+[R2, R3, R4] Possible time error in game 1332672
+[R2, R3, R4] Possible time error in game 1334393
+[R2, R3, R4] Possible time error in game 1334692
+[R2, R3, R4] Possible time error in game 1335573
+[R2, R3, R4] Possible time error in game 1337325
+[R2, R3, R4] Possible time error in game 1337705
+[R2, R3, R4] Possible time error in game 1337707
+[R2, R3, R4] Possible time error in game 1338072
+[R2, R3, R4] Possible time error in game 1339532
+[R2, R3, R4] Possible time error in game 1339552
+[R2, R3, R4] Possible time error in game 1346652
+[R2, R3, R4] Possible time error in game 1347032
+[R2, R3, R4] Possible time error in game 1356172
+[R2, R3, R4] Possible time error in game 1370133
+[R2, R3, R4] Possible time error in game 1374772
+[R2, R3, R4] Possible time error in game 2344273
+[R2, R3, R4] Possible time error in game 2651753
+[R2, R3, R4] Possible time error in game 2658923
+[R2, R3, R4] Possible time error in game 2665917
+[R2, R3, R4] Possible time error in game 2667013
+[R2, R3, R4] Possible time error in game 2669275
+[R2, R3, R4] Possible time error in game 2671213
+[R2, R3, R4] Possible time error in game 2671227
+[R2, R3, R4] Possible time error in game 2675067
+[R2, R3, R4] Possible time error in game 2675389
+[R2, R3, R4] Possible time error in game 2677113
+[R2, R3, R4] Possible time error in game 2678093
+[R2, R3, R4] Possible time error in game 2679413
+[R2, R3, R4] Possible time error in game 2679661
+[R2, R3, R4] Possible time error in game 2679733
+[R2, R3, R4] Possible time error in game 2680094
+[R2, R3, R4] Possible time error in game 2681616
+[R2, R3, R4] Possible time error in game 2683953
+[R2, R3, R4] Possible time error in game 2685153
+[R2, R3, R4] Possible time error in game 2685333
+[R2, R3, R4] Possible time error in game 2686916
+[R2, R3, R4] Possible time error in game 2688293
+[R2, R3, R4] Possible time error in game 2688993
+[R2, R3, R4] Possible time error in game 2689201
+[R2, R3, R4] Possible time error in game 2689728
+[R2, R3, R4] Possible time error in game 2690490
+[R2, R3, R4] Possible time error in game 2693929
+[R2, R3, R4] Possible time error in game 2694045
+[R2, R3, R4] Possible time error in game 2697113
+[R2, R3, R4] Possible time error in game 2697593
+[R2, R3, R4] Possible time error in game 2707517
+[R2, R3, R4] Possible time error in game 2707573
+[R2, R3, R4] Possible time error in game 2708173
+[R2, R3, R4] Possible time error in game 2709673
+[R2, R3, R4] Possible time error in game 2717094
+[R2, R3, R4] Possible time error in game 2725280
+[R2, R3, R4] Possible time error in game 2732156
+[R2, R3, R4] Possible time error in game 2739411
+[R2, R3, R4] Possible time error in game 2740396
+[R2, R3, R4] Possible time error in game 2749535
+[R2, R3, R4] Possible time error in game 2830773
+[R2, R3, R4] Possible time error in game 2844353
+[R2, R3, R4] Possible time error in game 317874
+[R2, R3, R4] Possible time error in game 3392224
+[R2, R3, R4] Possible time error in game 3422850
+[R2, R3, R4] Possible time error in game 3490089
+[R2, R3, R4] Possible time error in game 3492300
+[R2, R3, R4] Possible time error in game 3492787
+[R2, R3, R4] Possible time error in game 3494405
+[R2, R3, R4] Possible time error in game 3494468
+[R2, R3, R4] Possible time error in game 3494685
+[R2, R3, R4] Possible time error in game 3495490
+[R2, R3, R4] Possible time error in game 3495632
+[R2, R3, R4] Possible time error in game 3497105
+[R2, R3, R4] Possible time error in game 3497999
+[R2, R3, R4] Possible time error in game 3498019
+[R2, R3, R4] Possible time error in game 3498605
+[R2, R3, R4] Possible time error in game 3500028
+[R2, R3, R4] Possible time error in game 3500106
+[R2, R3, R4] Possible time error in game 3500196
+[R2, R3, R4] Possible time error in game 3500348
+[R2, R3, R4] Possible time error in game 3500369
+[R2, R3, R4] Possible time error in game 3500582
+[R2, R3, R4] Possible time error in game 3501032
+[R2, R3, R4] Possible time error in game 3501127
+[R2, R3, R4] Possible time error in game 3501539
+[R2, R3, R4] Possible time error in game 3505841
+[R2, R3, R4] Possible time error in game 3506705
+[R2, R3, R4] Possible time error in game 3507477
+[R2, R3, R4] Possible time error in game 3508772
+[R2, R3, R4] Possible time error in game 3509083
+[R2, R3, R4] Possible time error in game 3509705
+[R2, R3, R4] Possible time error in game 3509747
+[R2, R3, R4] Possible time error in game 3509855
+[R2, R3, R4] Possible time error in game 3510597
+[R2, R3, R4] Possible time error in game 3510606
+[R2, R3, R4] Possible time error in game 3517344
+[R2, R3, R4] Possible time error in game 3517527
+[R2, R3, R4] Possible time error in game 3518864
+[R2, R3, R4] Possible time error in game 3519265
+[R2, R3, R4] Possible time error in game 3560233
+[R2, R3, R4] Possible time error in game 3608984
+[R2, R3, R4] Possible time error in game 500050
+[R2, R3, R4] Possible time error in game 502030
+[R2, R3, R4] Possible time error in game 509530
+[R2, R3, R4] Possible time error in game 511032
+[R2, R3, R4] Possible time error in game 513030
+[R2, R3, R4] Possible time error in game 514252
+[R2, R3, R4] Possible time error in game 514391
+[R2, R3, R4] Possible time error in game 515930
+[R2, R3, R4] Possible time error in game 516752
+[R2, R3, R4] Possible time error in game 523470
+[R2, R3, R4] Possible time error in game 529871
+[R2, R3] Possible time error in game 2737632
+[R2] Possible time error in game 1081311
+[R2] Possible time error in game 1115572
+[R2] Possible time error in game 1120512
+[R2] Possible time error in game 1121732
+[R2] Possible time error in game 1125398
+[R2] Possible time error in game 1133356
+[R2] Possible time error in game 1164395
+[R2] Possible time error in game 1180452
+[R2] Possible time error in game 1190212
+[R2] Possible time error in game 1194099
+[R2] Possible time error in game 1195208
+[R2] Possible time error in game 1197613
+[R2] Possible time error in game 1198052
+[R2] Possible time error in game 1204272
+[R2] Possible time error in game 1238273
+[R2] Possible time error in game 1244812
+[R2] Possible time error in game 1251573
+[R2] Possible time error in game 1256261
+[R2] Possible time error in game 1270179
+[R2] Possible time error in game 1271993
+[R2] Possible time error in game 1275492
+[R2] Possible time error in game 1282613
+[R2] Possible time error in game 1283789
+[R2] Possible time error in game 1289832
+[R2] Possible time error in game 1294412
+[R2] Possible time error in game 1298133
+[R2] Possible time error in game 1307732
+[R2] Possible time error in game 1310054
+[R2] Possible time error in game 1312592
+[R2] Possible time error in game 1312872
+[R2] Possible time error in game 1316974
+[R2] Possible time error in game 1319454
+[R2] Possible time error in game 1321172
+[R2] Possible time error in game 2226233
+[R2] Possible time error in game 2227816
+[R2] Possible time error in game 2228693
+[R2] Possible time error in game 2228920
+[R2] Possible time error in game 2231373
+[R2] Possible time error in game 2314535
+[R2] Possible time error in game 2408073
+[R2] Possible time error in game 2410553
+[R2] Possible time error in game 2410653
+[R2] Possible time error in game 2413234
+[R2] Possible time error in game 2445430
+[R2] Possible time error in game 2445477
+[R2] Possible time error in game 2535462
+[R2] Possible time error in game 2585493
+[R2] Possible time error in game 2602733
+[R2] Possible time error in game 2684050
+[R2] Possible time error in game 2687135
+[R2] Possible time error in game 2690524
+[R2] Possible time error in game 2697284
+[R2] Possible time error in game 300213
+[R2] Possible time error in game 306890
+[R2] Possible time error in game 317881
+[R2] Possible time error in game 341453
+[R2] Possible time error in game 3419853
+[R2] Possible time error in game 3420415
+[R2] Possible time error in game 3421670
+[R2] Possible time error in game 3422981
+[R2] Possible time error in game 3424158
+[R2] Possible time error in game 3430857
+[R2] Possible time error in game 3430953
+[R2] Possible time error in game 3431949
+[R2] Possible time error in game 3432126
+[R2] Possible time error in game 3435814
+[R2] Possible time error in game 3437796
+[R2] Possible time error in game 3447024
+[R2] Possible time error in game 3448018
+[R2] Possible time error in game 3450994
+[R2] Possible time error in game 3454885
+[R2] Possible time error in game 3466660
+[R2] Possible time error in game 3469184
+[R2] Possible time error in game 3477631
+[R2] Possible time error in game 3478189
+[R2] Possible time error in game 3478504
+[R2] Possible time error in game 3483216
+[R2] Possible time error in game 3487086
+[R2] Possible time error in game 3487849
+[R2] Possible time error in game 352074
+[R2] Possible time error in game 356371
+[R2] Possible time error in game 378430
+[R2] Possible time error in game 401712
+[R2] Possible time error in game 412292
+[R2] Possible time error in game 419010
+[R2] Possible time error in game 426930
+[R2] Possible time error in game 430771
+[R2] Possible time error in game 462732
+[R2] Possible time error in game 480752
+[R2] Possible time error in game 482356
+[R2] Possible time error in game 488252
+[R3, D3] Possible time error in game 3421941
+[R3, R4] Possible time error in game 1081691
+[R3, R4] Possible time error in game 1090351
+[R3, R4] Possible time error in game 1107075
+[R3, R4] Possible time error in game 1113008
+[R3, R4] Possible time error in game 1118252
+[R3, R4] Possible time error in game 1133193
+[R3, R4] Possible time error in game 1140473
+[R3, R4] Possible time error in game 1142353
+[R3, R4] Possible time error in game 1145512
+[R3, R4] Possible time error in game 1147492
+[R3, R4] Possible time error in game 1147773
+[R3, R4] Possible time error in game 1162452
+[R3, R4] Possible time error in game 1162453
+[R3, R4] Possible time error in game 1169742
+[R3, R4] Possible time error in game 1169955
+[R3, R4] Possible time error in game 1169957
+[R3, R4] Possible time error in game 1182158
+[R3, R4] Possible time error in game 1204453
+[R3, R4] Possible time error in game 1213814
+[R3, R4] Possible time error in game 1224613
+[R3, R4] Possible time error in game 1233312
+[R3, R4] Possible time error in game 1233772
+[R3, R4] Possible time error in game 1250372
+[R3, R4] Possible time error in game 1257904
+[R3, R4] Possible time error in game 1257909
+[R3, R4] Possible time error in game 1262334
+[R3, R4] Possible time error in game 1269777
+[R3, R4] Possible time error in game 1274574
+[R3, R4] Possible time error in game 1283438
+[R3, R4] Possible time error in game 1284450
+[R3, R4] Possible time error in game 1286320
+[R3, R4] Possible time error in game 1292797
+[R3, R4] Possible time error in game 1297548
+[R3, R4] Possible time error in game 1298633
+[R3, R4] Possible time error in game 1298698
+[R3, R4] Possible time error in game 1298743
+[R3, R4] Possible time error in game 1309613
+[R3, R4] Possible time error in game 1311272
+[R3, R4] Possible time error in game 1316027
+[R3, R4] Possible time error in game 1316872
+[R3, R4] Possible time error in game 1321414
+[R3, R4] Possible time error in game 1325032
+[R3, R4] Possible time error in game 2227453
+[R3, R4] Possible time error in game 2227893
+[R3, R4] Possible time error in game 2229745
+[R3, R4] Possible time error in game 2231902
+[R3, R4] Possible time error in game 2233348
+[R3, R4] Possible time error in game 2233552
+[R3, R4] Possible time error in game 2246333
+[R3, R4] Possible time error in game 2247360
+[R3, R4] Possible time error in game 2284068
+[R3, R4] Possible time error in game 2293137
+[R3, R4] Possible time error in game 2306725
+[R3, R4] Possible time error in game 2311219
+[R3, R4] Possible time error in game 2340873
+[R3, R4] Possible time error in game 2364493
+[R3, R4] Possible time error in game 2380993
+[R3, R4] Possible time error in game 2384413
+[R3, R4] Possible time error in game 2396639
+[R3, R4] Possible time error in game 2410675
+[R3, R4] Possible time error in game 2411574
+[R3, R4] Possible time error in game 2412233
+[R3, R4] Possible time error in game 2416919
+[R3, R4] Possible time error in game 2419491
+[R3, R4] Possible time error in game 2419598
+[R3, R4] Possible time error in game 2426778
+[R3, R4] Possible time error in game 2453473
+[R3, R4] Possible time error in game 2477000
+[R3, R4] Possible time error in game 2487293
+[R3, R4] Possible time error in game 2608035
+[R3, R4] Possible time error in game 2608574
+[R3, R4] Possible time error in game 2623293
+[R3, R4] Possible time error in game 2628757
+[R3, R4] Possible time error in game 2644033
+[R3, R4] Possible time error in game 2655934
+[R3, R4] Possible time error in game 2664034
+[R3, R4] Possible time error in game 305450
+[R3, R4] Possible time error in game 307371
+[R3, R4] Possible time error in game 307970
+[R3, R4] Possible time error in game 314531
+[R3, R4] Possible time error in game 318310
+[R3, R4] Possible time error in game 325435
+[R3, R4] Possible time error in game 333930
+[R3, R4] Possible time error in game 337191
+[R3, R4] Possible time error in game 3418975
+[R3, R4] Possible time error in game 3419047
+[R3, R4] Possible time error in game 3419858
+[R3, R4] Possible time error in game 3420186
+[R3, R4] Possible time error in game 3420373
+[R3, R4] Possible time error in game 3420622
+[R3, R4] Possible time error in game 3423293
+[R3, R4] Possible time error in game 3423384
+[R3, R4] Possible time error in game 3423539
+[R3, R4] Possible time error in game 3424252
+[R3, R4] Possible time error in game 3428686
+[R3, R4] Possible time error in game 3429498
+[R3, R4] Possible time error in game 3432830
+[R3, R4] Possible time error in game 3437116
+[R3, R4] Possible time error in game 3437501
+[R3, R4] Possible time error in game 3438524
+[R3, R4] Possible time error in game 3439184
+[R3, R4] Possible time error in game 3441170
+[R3, R4] Possible time error in game 3442531
+[R3, R4] Possible time error in game 3443872
+[R3, R4] Possible time error in game 3445996
+[R3, R4] Possible time error in game 3446649
+[R3, R4] Possible time error in game 344891
+[R3, R4] Possible time error in game 3457290
+[R3, R4] Possible time error in game 3460864
+[R3, R4] Possible time error in game 3463211
+[R3, R4] Possible time error in game 348071
+[R3, R4] Possible time error in game 3497485
+[R3, R4] Possible time error in game 3510706
+[R3, R4] Possible time error in game 359790
+[R3, R4] Possible time error in game 3605545
+[R3, R4] Possible time error in game 365450
+[R3, R4] Possible time error in game 386030
+[R3, R4] Possible time error in game 388170
+[R3, R4] Possible time error in game 390655
+[R3, R4] Possible time error in game 396790
+[R3, R4] Possible time error in game 401110
+[R3, R4] Possible time error in game 401230
+[R3, R4] Possible time error in game 409410
+[R3, R4] Possible time error in game 418791
+[R3, R4] Possible time error in game 424495
+[R3, R4] Possible time error in game 439551
+[R3, R4] Possible time error in game 445131
+[R3, R4] Possible time error in game 446231
+[R3, R4] Possible time error in game 447971
+[R3, R4] Possible time error in game 448390
+[R3, R4] Possible time error in game 448610
+[R3, R4] Possible time error in game 449070
+[R3, R4] Possible time error in game 452430
+[R3, R4] Possible time error in game 455410
+[R3, R4] Possible time error in game 468838
+[R3, R4] Possible time error in game 471130
+[R3, R4] Possible time error in game 495472
+[R3, R4] Possible time error in game 497490
+[R3, R4] Possible time error in game 510974
+[R3, R4] Possible time error in game 517930
+[R3, R4] Possible time error in game 548312
+[R3] Possible time error in game 1107074
+[R3] Possible time error in game 1112568
+[R3] Possible time error in game 1112998
+[R3] Possible time error in game 1113592
+[R3] Possible time error in game 1115612
+[R3] Possible time error in game 1116313
+[R3] Possible time error in game 1129932
+[R3] Possible time error in game 1136212
+[R3] Possible time error in game 1149517
+[R3] Possible time error in game 1158572
+[R3] Possible time error in game 1160952
+[R3] Possible time error in game 1164232
+[R3] Possible time error in game 1170772
+[R3] Possible time error in game 1178093
+[R3] Possible time error in game 1183281
+[R3] Possible time error in game 1183517
+[R3] Possible time error in game 1193377
+[R3] Possible time error in game 1198812
+[R3] Possible time error in game 1228092
+[R3] Possible time error in game 1238352
+[R3] Possible time error in game 1253672
+[R3] Possible time error in game 1263452
+[R3] Possible time error in game 1268832
+[R3] Possible time error in game 1309413
+[R3] Possible time error in game 1322676
+[R3] Possible time error in game 2240255
+[R3] Possible time error in game 2250112
+[R3] Possible time error in game 2259614
+[R3] Possible time error in game 2261353
+[R3] Possible time error in game 2262074
+[R3] Possible time error in game 2285709
+[R3] Possible time error in game 2285733
+[R3] Possible time error in game 2357295
+[R3] Possible time error in game 2376213
+[R3] Possible time error in game 2384207
+[R3] Possible time error in game 2443154
+[R3] Possible time error in game 2446885
+[R3] Possible time error in game 2451007
+[R3] Possible time error in game 2473734
+[R3] Possible time error in game 2479949
+[R3] Possible time error in game 2486619
+[R3] Possible time error in game 2537214
+[R3] Possible time error in game 2661204
+[R3] Possible time error in game 2673096
+[R3] Possible time error in game 2673870
+[R3] Possible time error in game 304032
+[R3] Possible time error in game 306090
+[R3] Possible time error in game 337427
+[R3] Possible time error in game 3418813
+[R3] Possible time error in game 3419227
+[R3] Possible time error in game 3422832
+[R3] Possible time error in game 3425425
+[R3] Possible time error in game 3427736
+[R3] Possible time error in game 3429357
+[R3] Possible time error in game 3430466
+[R3] Possible time error in game 3431895
+[R3] Possible time error in game 3438084
+[R3] Possible time error in game 3439090
+[R3] Possible time error in game 3441062
+[R3] Possible time error in game 3441114
+[R3] Possible time error in game 3450844
+[R3] Possible time error in game 3451328
+[R3] Possible time error in game 3461655
+[R3] Possible time error in game 3463765
+[R3] Possible time error in game 3464652
+[R3] Possible time error in game 3468399
+[R3] Possible time error in game 3473486
+[R3] Possible time error in game 3474265
+[R3] Possible time error in game 3481790
+[R3] Possible time error in game 3490523
+[R3] Possible time error in game 366470
+[R3] Possible time error in game 387586
+[R3] Possible time error in game 390654
+[R3] Possible time error in game 399472
+[R3] Possible time error in game 406770
+[R3] Possible time error in game 447672
+[R3] Possible time error in game 452190
+[R3] Possible time error in game 476170
+[R4] Possible time error in game 1102352
+[R4] Possible time error in game 1148101
+[R4] Possible time error in game 1174112
+[R4] Possible time error in game 1193832
+[R4] Possible time error in game 1223632
+[R4] Possible time error in game 1281296
+[R4] Possible time error in game 1281381
+[R4] Possible time error in game 1319462
+[R4] Possible time error in game 1329292
+[R4] Possible time error in game 1331407
+[R4] Possible time error in game 2240914
+[R4] Possible time error in game 2274937
+[R4] Possible time error in game 2412664
+[R4] Possible time error in game 2440353
+[R4] Possible time error in game 2484733
+[R4] Possible time error in game 2533253
+[R4] Possible time error in game 2539878
+[R4] Possible time error in game 2618754
+[R4] Possible time error in game 2627863
+[R4] Possible time error in game 2638451
+[R4] Possible time error in game 2642648
+[R4] Possible time error in game 2686746
+[R4] Possible time error in game 308491
+[R4] Possible time error in game 325436
+[R4] Possible time error in game 325572
+[R4] Possible time error in game 326310
+[R4] Possible time error in game 3437768
+[R4] Possible time error in game 3443233
+[R4] Possible time error in game 3460476
+[R4] Possible time error in game 3467948
+[R4] Possible time error in game 3468041
+[R4] Possible time error in game 3468217
+[R4] Possible time error in game 3470753
+[R4] Possible time error in game 3476746
+[R4] Possible time error in game 3479616
+[R4] Possible time error in game 3488032
+[R4] Possible time error in game 3488273
+[R4] Possible time error in game 3512370
+[R4] Possible time error in game 417550
+[R4] Possible time error in game 418634
+[R4] Possible time error in game 506470
+[R4] Possible time error in game 519030
+[R4] Possible time error in game 519950
+[R4] Possible time error in game 531730
